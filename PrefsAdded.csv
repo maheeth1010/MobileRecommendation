@@ -1,0 +1,3633 @@
+Brand,Model,Price,Released,Mass,Platform,Operating System,CPU Clock,Processor,Processor Score,RAM Capacity (converted),Non-volatile Memory Capacity (converted),RAM Type,Display Diagonal,Resolution,Pixel Density,Display Type,Graphical Controller,GPU Scores,Microphone(s),Loudpeaker(s):,Audio Output:,Expansion Interfaces,USB Connector,Max. Charging Power:,Nominal Battery Capacity,Image Sensor Pixel Size,No. of effective pixels,Aperture (W),Camera Extra Functions,Camera Extra Feat.,Secondary No. of pixels,Built-in compass,Built-in gyroscope,Voice Command,Augmented Reality (AR),Intelligent personal assistant,Voice Recognition,Face Recognition,Barometer,In-screen fingerprint sensor,Hall,Heart rate sensor,Fingerprint sensor,Light sensor,Proximity sensor,Step counter,Display_Score,Performance_Score,Camera_Score,Battery_Score,Camera Prefs,Battery Prefs,Performance Prefs,Display Prefs
+Apple,iPhone 11 A2221 Global Dual SIM TD-LTE 128GB,55999,19-Sep,194,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,128,4,155,828x1792,323,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3110,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,32300,715704,8066.666667,21110,1575780.667,2867070.667,71631876.67,3974880.667
+Apple,iPhone 11 A2221 Global Dual SIM TD-LTE 256GB,69990,19-Sep,194,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,256,4,155,828x1792,323,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3110,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,32300,715704,8066.666667,21110,1575780.667,2867070.667,71631876.67,3974880.667
+Apple,iPhone 11 A2221 Global Dual SIM TD-LTE 64GB,50999,19-Sep,194,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,64,4,155,828x1792,323,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3110,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,32300,715704,8066.666667,21110,1575780.667,2867070.667,71631876.67,3974880.667
+Apple,iPhone 11 Pro A2215 Global Dual SIM TD-LTE 256GB,92999,19-Sep,188,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,256,4,147,1125x2436,464,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3046,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,46401,715704,8066.666667,21046,1589817.667,2874771.667,71645913.67,5384916.667
+Apple,iPhone 11 Pro A2215 Global Dual SIM TD-LTE 512GB,109999,19-Sep,188,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,512,4,147,1125x2436,464,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3046,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,46401,715704,8066.666667,21046,1589817.667,2874771.667,71645913.67,5384916.667
+Apple,iPhone 11 Pro A2215 Global Dual SIM TD-LTE 64GB,79999,19-Sep,188,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,64,4,147,1125x2436,464,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3046,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,46401,715704,8066.666667,21046,1589817.667,2874771.667,71645913.67,5384916.667
+Apple,iPhone 11 Pro Max A2218 Global Dual SIM TD-LTE 256GB,131900,19-Sep,226,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,256,4,165,1242x2688,456,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3969,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,45601,715704,8066.666667,21969,1589940.667,2966271.667,71646036.67,5305839.667
+Apple,iPhone 11 Pro Max A2218 Global Dual SIM TD-LTE 512GB,150800,19-Sep,226,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,512,4,165,1242x2688,456,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3969,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,45601,715704,8066.666667,21969,1589940.667,2966271.667,71646036.67,5305839.667
+Apple,iPhone 11 Pro Max A2218 Global Dual SIM TD-LTE 64GB,106999,19-Sep,226,iOS,Apple iOS 13,2650,A13 Bionic,472507,4,64,4,165,1242x2688,456,1,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,3969,1.4,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,45601,715704,8066.666667,21969,1589940.667,2966271.667,71646036.67,5305839.667
+Apple,iPhone 12 Pro 5G A2407 Global Dual SIM TD-LTE 128GB,119000,20-Nov,187,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,512,5,153.92,1170x2532,460,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,2815,1.4,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,46001,836950,8900,22815,1795766,3173351,83772716,5468765
+Apple,iPhone 12 Pro 5G A2407 Global Dual SIM TD-LTE 256GB,129900,20-Nov,187,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,256,5,153.92,1170x2532,460,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,2815,1.4,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,46001,836950,8900,22815,1795766,3173351,83772716,5468765
+Apple,iPhone 12 Pro 5G A2407 Global Dual SIM TD-LTE 512GB,149000,20-Nov,187,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,512,5,153.92,1170x2532,460,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,2815,1.4,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,46001,836950,8900,22815,1795766,3173351,83772716,5468765
+Apple,iPhone 12 Pro Max 5G A2411 Global Dual SIM TD-LTE 128GB,129900,20-Nov,226,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,128,5,169.7,1284x2778,458,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,3687,1.7,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,45801,836950,9200,23687,1826438,3260651,83773688,5449937
+Apple,iPhone 12 Pro Max 5G A2411 Global Dual SIM TD-LTE 256GB,139900,20-Nov,226,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,256,5,169.7,1284x2778,458,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,3687,1.7,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,45801,836950,9200,23687,1826438,3260651,83773688,5449937
+Apple,iPhone 12 Pro Max 5G A2411 Global Dual SIM TD-LTE 512GB,159900,20-Nov,226,iOS,Apple iOS 14.1,2990,A14 Bionic,581084,6,512,5,169.7,1284x2778,458,1,Apple A14 Bionic GPU,214966,3,2,0,0,0,20,3687,1.7,12.2,1.6,"EIS (video)
+  , OIS
+  , OIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",16,12.2,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,45801,836950,9200,23687,1826438,3260651,83773688,5449937
+Apple,iPhone SE 2020 2nd gen A2296 Global Dual SIM TD-LTE 128GB,39900,20-Apr,148,iOS,Apple iOS 13.4,2650,A13 Bionic,472507,3,128,4,119.5,750x1334,325,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,1821,1.22,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,7.2,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,32500,714704,7886.666667,19821,1555691.667,2737190.667,71530607.67,3992411.667
+Apple,iPhone SE 2020 2nd gen A2296 Global Dual SIM TD-LTE 256GB,49900,20-Apr,148,iOS,Apple iOS 13.4,2650,A13 Bionic,472507,3,256,4,119.5,750x1334,325,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,1821,1.22,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,7.2,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,32500,714704,7886.666667,19821,1555691.667,2737190.667,71530607.67,3992411.667
+Apple,iPhone SE 2020 2nd gen A2296 Global Dual SIM TD-LTE 64GB,34900,20-Apr,148,iOS,Apple iOS 13.4,2650,A13 Bionic,472507,3,64,4,119.5,750x1334,325,0,Apple A13 Bionic GPU,208697,3,2,0,0,0,18,1821,1.22,12.2,1.8,"EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,7.2,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,32500,714704,7886.666667,19821,1555691.667,2737190.667,71530607.67,3992411.667
+Asus,ROG Phone 3 5G Premium Edition Dual SIM TD-LTE IN Version B 256GB 12GB ZS661KS,54999,20-Aug,240,Android,Google Android 10 (Q),3091,Snapdragon 865 Plus,614305,12,256,4,167.39,1080x2340,391,1,Qualcomm Adreno 650,146854,4,2,0,0,1,30,6000,0.8,64,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,39101,808069,7503.910615,36000,1633561.062,4454673.911,80889504.91,4761672.911
+Asus,ROG Phone 3 5G Premium Edition Dual SIM TD-LTE IN Version B 128GB 12GB ZS661KS,49999,20-Aug,240,Android,Google Android 10 (Q),3091,Snapdragon 865 Plus,614305,12,128,4,167.39,1080x2340,391,1,Qualcomm Adreno 650,146854,4,2,0,0,1,30,6000,0.8,64,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,39101,808069,7503.910615,36000,1633561.062,4454673.911,80889504.91,4761672.911
+Asus,ROG Phone 3 5G Premium Edition Dual SIM TD-LTE IN Version B 128GB 8GB ZS661KS,46999,20-Aug,240,Android,Google Android 10 (Q),3091,Snapdragon 865 Plus,614305,8,128,4,167.39,1080x2340,391,1,Qualcomm Adreno 650,146854,4,2,0,0,1,30,6000,0.8,64,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,39101,804069,7503.910615,36000,1629561.062,4450673.911,80489504.91,4757672.911
+Asus,ROG Phone 3 5G Standard Edition Dual SIM TD-LTE IN Version B 128GB ZS661KS,39999,20-Aug,240,Android,Google Android 10 (Q),3091,Snapdragon 865 Plus,614305,8,128,4,167.39,1080x2340,391,1,Qualcomm Adreno 650,146854,4,2,0,0,1,30,6000,0.8,64,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,1,39101,804069,7503.910615,36000,1629561.062,4450673.911,80489504.91,4757672.911
+Asus,ROG Phone II Global Dual SIM TD-LTE 512GB ZS660KL,62999,19-Sep,240,Android,Google Android 9.0 (Pie),2960,Snapdragon 855 Plus,470592,12,512,4,167.39,1080x2340,391,1,Qualcomm Adreno 640,106829,4,2,1,0,1,30,6000,0.8,48,1.79,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39101,623021,7503.910615,36000,1448513.062,4269625.911,62384704.91,4576624.911
+Asus,ROG Phone II Strix Edition Global Dual SIM TD-LTE 128GB ZS660KL,40999,19-Dec,240,Android,Google Android 9.0 (Pie),2960,Snapdragon 855 Plus,470592,8,128,4,167.39,1080x2340,391,1,Qualcomm Adreno 640,106829,4,2,1,0,1,30,6000,0.8,48,1.79,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39101,619021,7503.910615,36000,1444513.062,4265625.911,61984704.91,4572624.911
+Asus,ROG Phone II Ultimate Edition Global Dual SIM TD-LTE 1TB ZS660KL,211137,19-Dec,240,Android,Google Android 9.0 (Pie),2960,Snapdragon 855 Plus,470592,12,1000,4,167.39,1080x2340,391,1,Qualcomm Adreno 640,106829,4,2,1,0,1,30,6000,0.8,48,1.79,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,24,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39101,623021,7503.910615,36000,1448513.062,4269625.911,62384704.91,4576624.911
+Asus,ZenFone 6 2019 Global Dual SIM TD-LTE Version A ZS630KL 256GB / 6z,34999,19-Jul,190,Android,Google Android 9.0 (Pie),2842,Snapdragon 855,422995,8,256,4,162.3,1080x2340,403,0,Qualcomm Adreno 640,106829,2,2,1,1,1,18,5000,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,13,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,40300,570244,7503.910615,23000,1383935.062,2918047.911,57095203.91,4630747.911
+BBK,Vivo iQOO 3 5G Top Edition Global Dual SIM TD-LTE 256GB I1928,44990,20-Mar,214.5,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,256,5,163.6,1080x2400,409,1,Qualcomm Adreno 650,146854,2,1,1,0,1,55,4440,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,16.2,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40901,773617,7503.910615,59440,1624349.062,6766021.911,77469544.91,4930660.911
+BBK,Vivo iQOO 3 Premium Edition Global Dual SIM TD-LTE 128GB I1927,29990,20-Mar,214.5,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,8,128,5,163.6,1080x2400,409,1,Qualcomm Adreno 650,146854,2,1,1,0,1,55,4440,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,16.2,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40901,769617,7503.910615,59440,1620349.062,6762021.911,77069544.91,4926660.911
+BBK,Vivo iQOO 3 Premium Edition Global Dual SIM TD-LTE 256GB I1927,32990,20-Mar,214.5,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,8,256,5,163.6,1080x2400,409,1,Qualcomm Adreno 650,146854,2,1,1,0,1,55,4440,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,16.2,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40901,769617,7503.910615,59440,1620349.062,6762021.911,77069544.91,4926660.911
+BBK,Vivo S1 Dual SIM TD-LTE IN 128GB 1907,17200,19-Aug,179,Android,Google Android 9.0 (Pie),2000,Helio P65,183182,6,128,4,162,1080x2340,404,1,ARM Mali-G52 MP2,23875,2,1,1,1,0,18,4500,1.12,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",12,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40401,237057,7861.573034,22500,1086115.303,2535319.573,23776462.57,4307518.573
+BBK,Vivo S1 Dual SIM TD-LTE IN 64GB 1907,14990,19-Aug,179,Android,Google Android 9.0 (Pie),2000,Helio P65,183182,4,64,4,162,1080x2340,404,1,ARM Mali-G52 MP2,23875,2,1,1,1,0,18,4500,1.12,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",12,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40401,235057,7861.573034,22500,1084115.303,2533319.573,23576462.57,4305518.573
+BBK,Vivo S1 Pro Dual SIM TD-LTE MY VN IN 128GB 1920,18990,19-Nov,186.7,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,8,128,4,162,1080x2340,404,1,Qualcomm Adreno 610,24816,2,1,1,1,1,18,4500,0.8,48,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40401,200206,7466.666667,22500,1009773.667,2498073.667,20090967.67,4270272.667
+BBK,Vivo U10 Premium Edition Dual SIM TD-LTE IN 64GB 1916,12990,19-Sep,190.5,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,161.5,720x1544,268,0,Qualcomm Adreno 610,24816,2,1,1,1,0,18,5000,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,196206,6574.545455,23000,903460.5455,2529580.545,19676974.55,2905780.545
+BBK,Vivo U10 Standard Edition Dual SIM TD-LTE IN 32GB 1916,9990,19-Sep,190.5,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,3,32,4,161.5,720x1544,268,0,Qualcomm Adreno 610,24816,2,1,1,1,0,18,5000,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,195206,6574.545455,23000,902460.5455,2528580.545,19576974.55,2904780.545
+BBK,Vivo U10 Standard Edition Dual SIM TD-LTE IN 64GB 1916,11980,19-Sep,190.5,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,3,64,4,161.5,720x1544,268,0,Qualcomm Adreno 610,24816,2,1,1,1,0,18,5000,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,195206,6574.545455,23000,902460.5455,2528580.545,19576974.55,2904780.545
+BBK,Vivo U20 Standard Edition Dual SIM TD-LTE IN 64GB 1921,11749,19-Dec,193,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,4,64,4,165.8,1080x2340,395,0,Qualcomm Adreno 612,26541,2,1,1,1,0,18,5000,1.12,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",13,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,254691,7861.573034,23000,1103348.303,2602052.573,25539461.57,4235552.573
+BBK,Vivo V15 Dual SIM TD-LTE IN ID TH NP 128GB,17999,19-Mar,189.5,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,6,128,4,165.86,1080x2340,395,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,10,4000,0.8,12,1.78,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",13,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,240729,7541.573034,14000,1048386.303,1687770.573,24133941.57,4212270.573
+BBK,Vivo V15 Pro Standard Edition Dual SIM TD-LTE IN ID NP TH 128GB 1818,20500,19-Mar,185,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,6,128,4,162.3,1080x2340,403,1,Qualcomm Adreno 612,26541,2,1,1,1,0,10,3700,0.8,48,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",13,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40301,256691,7466.666667,13700,1057358.667,1674458.667,25730567.67,4307957.667
+BBK,Vivo V17 Dual SIM TD-LTE IN 128GB 1919,17990,19-Dec,176,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,8,128,4,163.6,1080x2400,409,1,Qualcomm Adreno 612,26541,2,1,1,1,1,18,4500,0.8,48,1.8,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40901,258691,7466.666667,22500,1068758.667,2557058.667,25939967.67,4378757.667
+BBK,Vivo V17 Pro Dual SIM TD-LTE IN PK NP BD MN 128GB 1909,19990,19-Oct,201.8,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,8,128,4,163.6,1080x2400,409,1,Qualcomm Adreno 612,26541,2,1,1,0,1,18,4100,0.8,48,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40901,258691,7466.666667,22100,1068358.667,2517058.667,25939567.67,4378357.667
+BBK,Vivo V20 Global Dual SIM TD-LTE V3 128GB TD2003F,24990,20-Oct,171,Android,Google Android 11,2300,Snapdragon 720G,270644,8,128,4,163.6,1080x2400,409,1,Qualcomm Adreno 618,52700,2,1,1,0,1,33,4000,0.8,63.7,1.89,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,44.2,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40901,358344,7149.206349,37000,1151165.635,4106394.206,35919450.21,4492593.206
+BBK,Vivo V20 Pro 5G Global Dual SIM TD-LTE 128GB 2018,35190,20-Oct,170,Android,Google Android 10 (Q),2400,Snapdragon 765G,308083,8,128,4,163.5,1080x2400,409,1,Qualcomm Adreno 620,68545,2,1,0,0,1,33,4000,0.8,63.7,1.89,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,44.2,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40901,412628,7149.206349,37000,1205449.635,4160678.206,41347850.21,4546877.206
+BBK,Vivo X50 4G Dual SIM TD-LTE V1 IN 128GB 2004,31491,20-Jul,171.5,Android,Google Android 10 (Q),2400,Snapdragon 730,251169,8,128,4,166.62,1080x2376,398,1,Qualcomm Adreno 618,52700,2,1,0,0,1,33,4200,0.8,48,1.6,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39801,339869,8300,37200,1246870,4107970,34072201,4365469
+BBK,Vivo X50 4G Dual SIM TD-LTE V1 IN 256GB 2004,34191,20-Jul,171.5,Android,Google Android 10 (Q),2400,Snapdragon 730,251169,8,256,4,166.62,1080x2376,398,1,Qualcomm Adreno 618,52700,2,1,0,0,1,33,4200,0.8,48,1.6,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39801,339869,8300,37200,1246870,4107970,34072201,4365469
+BBK,Vivo X50 Pro 5G Global Dual SIM TD-LTE 256GB 2006,44991,20-Jun,181.5,Android,Google Android 10 (Q),2400,Snapdragon 765G,308083,8,256,4,166.62,1080x2376,398,1,Qualcomm Adreno 620,68545,2,1,0,0,1,33,4315,0.8,48,1.6,"EIS (video)
+ , Gimbal
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39801,412628,8300,37315,1319744,4192229,41348216,4438343
+BBK,Vivo Y12 2019 Premium Edition Dual SIM TD-LTE IN 32GB 1904,12990,19-May,190.5,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,4,32,3,161.5,720x1544,268,0,PowerVR GE8320,11243,2,1,1,1,0,18,5000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,113661,6254.545455,23000,788915.5455,2446715.545,11422154.55,2822915.545
+BBK,Vivo Y12 2019 Standard Edition Dual SIM TD-LTE IN PH 64GB 1904,10990,19-May,190.5,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,3,64,3,161.5,720x1544,268,0,PowerVR GE8320,11243,2,1,1,1,0,18,5000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,112661,6254.545455,23000,787915.5455,2445715.545,11322154.55,2821915.545
+BBK,Vivo Y15 2019 Dual SIM TD-LTE IN PH 64GB 1901,12840,19-May,190.5,Android,Google Android 9.0 (Pie),2300,Helio P22,75418,4,64,3,161.5,720x1544,268,0,PowerVR GE8320,11243,2,1,1,1,0,18,5000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,116661,6254.545455,23000,791915.5455,2449715.545,11722154.55,2825915.545
+BBK,Vivo Y17 2019 Dual SIM TD-LTE IN ID NP PK 128GB 1902,12600,19-May,190.5,Android,Google Android 9.0 (Pie),2300,Helio P35,94992,4,128,3,161.5,720x1544,268,0,PowerVR GE8320,11243,2,1,1,1,0,18,5000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,19.7,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,136235,6254.545455,23000,811489.5455,2469289.545,13679554.55,2845489.545
+BBK,Vivo Y19 2019 Dual SIM TD-LTE IN PK 128GB 1915,14990,19-Nov,193,Android,Google Android 9.0 (Pie),2000,Helio P65,183182,4,128,4,165.9,1080x2340,395,0,ARM Mali-G52 MP2,23875,2,1,1,1,0,18,5000,0.8,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",11,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,235057,7541.573034,23000,1051714.303,2582098.573,23575741.57,4215598.573
+BBK,Vivo Y1s 2020 Standard Edition Dual SIM TD-LTE V1 KH 32GB,8100,20-Aug,161,Android,Google Android 10 (Q),2300,Helio P35,94992,2,32,3,158,720x1560,276,0,PowerVR GE8320,11243,2,1,1,1,0,10,4030,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",11,4.9,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,27600,134235,6254.545455,14030,801319.5455,1571089.545,13471384.55,2914519.545
+BBK,Vivo Y30 2020 Dual SIM TD-LTE V1 IN ID PK MN 128GB 1938,12591,20-May,197,Android,Google Android 10 (Q),2300,Helio P35,94992,4,128,4,164.34,720x1560,266,0,PowerVR GE8320,11243,2,1,1,1,1,10,5000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",11,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26600,137235,6254.545455,15000,804289.5455,1670089.545,13771354.55,2818489.545
+BBK,Vivo Y50 2020 Dual SIM TD-LTE V1 IN ID 128GB 1935,15291,20-Jun,197,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,8,128,4,165.86,1080x2340,395,0,Qualcomm Adreno 610,24816,2,1,1,1,1,10,5000,0.8,13.4,2.2,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,200206,6254.545455,15000,880160.5455,1745960.545,20081354.55,4171460.545
+BBK,Vivo Y90 Dual SIM TD-LTE IN 16GB 1908,8099,19-Jul,163.5,Android,Google Android 8.1 (Oreo),2000,Helio A22,79758,2,16,3,157.98,720x1520,270,0,PowerVR GE8300,7567,1,1,1,1,0,10,4030,0.8,8,2,"HDR photo
+ , HDR video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Smile detection",9,4.9,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,27000,112325,6800,14030,833355,1549125,11280330,2833155
+BBK,Vivo Z1 Pro Premium Edition Dual SIM TD-LTE IN 128GB 1951,15999,19-Jul,201,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,128,4,165.9,1080x2340,395,0,Qualcomm Adreno 616,38288.5,2,1,1,1,0,18,5000,1.12,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",12,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,296291.5,7861.573034,23000,1144948.803,2643653.073,29699511.57,4277153.073
+BBK,Vivo Z1 Pro Premium Edition Dual SIM TD-LTE IN 64GB 1951,13999,19-Jul,201,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,64,4,165.9,1080x2340,395,0,Qualcomm Adreno 616,38288.5,2,1,1,1,0,18,5000,1.12,15.9,1.78,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection",12,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,296291.5,7861.573034,23000,1144948.803,2643653.073,29699511.57,4277153.073
+BBK,Vivo Z1x Dual SIM TD-LTE IN 128GB 1917,18990,19-Sep,189.6,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,128,4,162,1080x2340,404,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,22.5,4500,0.8,48,1.79,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40401,296291.5,7503.910615,27000,1114083.562,3044196.411,29704054.91,4370895.411
+BBK,Vivo Z1x Dual SIM TD-LTE IN 64GB 1917,16990,19-Sep,189.6,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,64,4,162,1080x2340,404,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,22.5,4500,0.8,48,1.79,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40401,296291.5,7503.910615,27000,1114083.562,3044196.411,29704054.91,4370895.411
+Motorola,Edge 5G Global Dual SIM TD-LTE XT2063-3,49990,20-May,188,Android,Google Android 10 (Q),2300,Snapdragon 765,284782,6,128,4,170.2,1080x2340,385,1,Qualcomm Adreno 620,68545,2,2,1,1,1,18,4500,0.8,63.7,1.8,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,24.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,38501,386327,7466.666667,22500,1193994.667,2682294.667,38701167.67,4266393.667
+Motorola,Edge+ 5G Global TD-LTE XT2061-3,64999,20-May,203,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,256,5,170.2,1080x2340,385,1,Qualcomm Adreno 650,146854,3,2,1,0,1,18,5000,0.8,108.6,1.8,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,24.8,1,1,1,0,1,0,1,1,1,0,0,0,1,1,0,38501,773617,7466.666667,23000,1581784.667,3119584.667,77430667.67,4654183.667
+Motorola,Moto E6s Dual SIM TD-LTE IN 64GB XT2025-2 / Moto E6 Plus,9990,19-Sep,149.7,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,4,64,3,154.9,720x1560,282,0,PowerVR GE8320,11243,2,1,1,1,0,10,3000,1.12,13,2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Face retouch",10,8,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,28200,113661,7120,13000,866861,1448981,11414420,2953781
+Motorola,Moto G7 Dual SIM TD-LTE IN 64GB XT1962-6,9999,19-Mar,172,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,4,64,3,158.49,1080x2270,403,0,Qualcomm Adreno 506,13259,3,1,1,1,1,10,3000,1.25,12,1.8,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,8,1,1,1,0,1,0,1,0,0,1,0,1,1,1,0,40300,156748,7916.666667,13000,1001714.667,1504964.667,15736016.67,4207664.667
+Motorola,Moto G7 Play Global Dual SIM TD-LTE 32GB XT1952-1,13990,19-Feb,149,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,2,32,3,144,720x1512,295,0,Qualcomm Adreno 506,13259,2,1,1,1,1,10,3000,1.12,13,2,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,29500,154748,7120,13000,909248,1491368,15524420,3124868
+Motorola,Moto G7 Power Global Dual SIM TD-LTE 64GB XT1955-4,15999,19-Feb,193,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,4,64,3,157.5,720x1570,279,0,Qualcomm Adreno 506,13259,2,1,1,1,1,10,5000,1.25,12,2,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27900,156748,7250,15000,924648,1691898,15724950,2968998
+Motorola,Moto G8 Dual SIM TD-LTE APAC XT2045-6,18390,20-Apr,188.3,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,4,64,4,162.56,720x1560,268,0,Qualcomm Adreno 610,24816,2,1,1,1,1,10,4000,1.12,15.9,1.7,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,8,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,26800,196206,8178.823529,14000,1054888.353,1631184.824,19669578.82,2898384.824
+Motorola,Moto G8 Plus Global Dual SIM TD-LTE XT2019-1 / One Vision Plus,13999,19-Oct,188,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,160,1080x2280,401,0,Qualcomm Adreno 610,24816,2,2,1,1,1,18,4000,0.8,48,1.7,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",17,24.8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40100,196206,7858.823529,22000,1044188.353,2444164.824,19690558.82,4236064.824
+Motorola,Moto G9 Play 2020 Global Dual SIM TD-LTE 64GB XT2083-3 / Moto G9,14890,20-Aug,200,Android,Google Android 10 (Q),2000,Snapdragon 662,175239,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,1,15,5000,0.8,48,1.7,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,228055,7858.823529,20000,1060937.353,2262913.824,22860358.82,2955913.824
+Motorola,Moto One Action Global Dual SIM TD-LTE 128GB XT2013-2,10999,19-Sep,181,Android,Google Android 9.0 (Pie),2200,Exynos 9609,185452,4,128,4,160,1080x2520,435,0,ARM Mali-G72 MP3,20615,2,1,1,1,1,10,3500,1.25,12,1.8,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,12,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,43500,236067,7916.666667,13500,1084733.667,1637483.667,23671616.67,4607483.667
+Motorola,Moto One Fusion+ Dual SIM TD-LTE APAC XT2067-3,16999,20-Jun,210,Android,Google Android 10 (Q),2200,Snapdragon 730G,274094,6,128,4,165.1,1080x2340,396,0,Qualcomm Adreno 618,52700,2,1,1,1,1,18,5000,0.8,63.7,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39600,358794,7466.666667,23000,1168060.667,2705860.667,35949466.67,4349260.667
+Motorola,Moto One Macro Global Dual SIM TD-LTE XT2016-1,9999,19-Oct,186,Android,Google Android 9.0 (Pie),2000,Helio P70,189114,4,64,4,157.5,720x1520,271,0,ARM Mali-G72 MP3,20615,2,1,1,1,1,10,4000,1.12,13,2,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27100,237729,7120,14000,990829,1671949,23821120,2968849
+Motorola,Moto One Vision Dual SIM TD-LTE EMEA APAC 128GB XT1970-3,14999,19-Aug,181,Android,Google Android 9.0 (Pie),2200,Exynos 9609,185452,4,128,4,160,1080x2520,435,0,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,3500,0.8,48,1.7,"EIS
+ , EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",18,24.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,43500,236067,7858.823529,18500,1083949.353,2137425.824,23676558.82,4612425.824
+Motorola,RAZR 2019 Global TD-LTE XT2000-2,124999,20-Apr,205,Android,Google Android 9.0 (Pie),2200,Snapdragon 710,215043,6,128,4,157.5,876x2142,373,1,Qualcomm Adreno 616,38288.5,4,1,0,0,1,18,2510,1.22,16.3,1.7,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",16,4.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,37301,285331.5,8278.823529,20510,1171024.853,2381911.324,28599239.82,4044220.324
+Oneplus,OnePlus 8T 128GB,42979,20-Oct,188,Android,"Android 11, OxygenOS 11",2840,Snapdragon 865,581363,8,128,4,160.7,1080x2400,402,1,Qualcomm Adreno 650,146854,0,2,0,0,1,65,4500,0.8,48,2.4,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,40201,768617,5800,69500,1458318,7764618,76977201,4864017
+Oneplus,OnePlus 8T 256GB,45980,20-Oct,188,Android,"Android 11, OxygenOS 11",2840,Snapdragon 865,581363,12,256,4,160.7,1080x2400,402,1,Qualcomm Adreno 650,146854,0,2,0,0,1,65,4500,0.8,48,2.4,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,40201,772617,5800,69500,1462318,7768618,77377201,4868017
+Oneplus,OnePlus Nord 64GB,24999,20-Jul,184,Android,"Android 10, OxygenOS 10.5.9",2400,Snapdragon 765G,308083,6,64,3,158.3,1080x2400,408,1,Qualcomm Adreno 620,68545,0,1,0,0,1,30,4115,0.8,48,1.8,"Dual-LED flash, HDR, panorama",13,32,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40801,409628,7466.666667,34115,1231210.667,3869395.667,41045182.67,4531309.667
+Oneplus,OnePlus Nord 128GB,27999,20-Jul,184,Android,"Android 10, OxygenOS 10.5.9",2400,Snapdragon 765G,308083,8,128,3,158.3,1080x2400,408,1,Qualcomm Adreno 620,68545,0,1,0,0,1,30,4115,0.8,48,1.8,"Dual-LED flash, HDR, panorama",13,32,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40801,411628,7466.666667,34115,1233210.667,3871395.667,41245182.67,4533309.667
+Oneplus,OnePlus Nord 256GB,29999,20-Jul,184,Android,"Android 10, OxygenOS 10.5.9",2400,Snapdragon 765G,308083,12,256,3,158.3,1080x2400,408,1,Qualcomm Adreno 620,68545,0,1,0,0,1,30,4115,0.8,48,1.8,"Dual-LED flash, HDR, panorama",13,32,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40801,415628,7466.666667,34115,1237210.667,3875395.667,41645182.67,4537309.667
+Oneplus,OnePlus 8 Pro 128GB,54999,20-Apr,199,Android,"Android 10, upgradable to Android 11, OxygenOS 11",2840,Snapdragon 865,581363,8,128,4,165.3,1440x3168,513,1,Qualcomm Adreno 650,146854,0,2,0,0,1,30,4510,1.12,48,2.5,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51301,768617,5920,34510,1446428,4276838,76953431,5939147
+Oneplus,OnePlus 8 Pro 256GB,59999,20-Apr,199,Android,"Android 10, upgradable to Android 11, OxygenOS 11",2840,Snapdragon 865,581363,12,256,4,165.3,1440x3168,513,1,Qualcomm Adreno 650,146854,0,2,0,0,1,30,4510,1.12,48,2.5,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51301,772617,5920,34510,1450428,4280838,77353431,5943147
+Oneplus,OnePlus 8 128GB,41765,20-Apr,180,Android,"Android 10, upgradable to Android 11, OxygenOS 11",2840,Snapdragon 865,581363,8,128,4,160.2,1080x2400,402,1,Qualcomm Adreno 650,146854,0,2,0,0,1,30,4300,0.8,48,2.4,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40201,768617,5800,34300,1423118,4244618,76942001,4828817
+Oneplus,OnePlus 8 256GB,44999,20-Apr,180,Android,"Android 10, upgradable to Android 11, OxygenOS 11",2840,Snapdragon 865,581363,12,256,4,160.2,1080x2400,402,1,Qualcomm Adreno 650,146854,0,2,0,0,1,30,4300,0.8,48,2.4,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40201,772617,5800,34300,1427118,4248618,77342001,4832817
+Oneplus,OnePlus 7T Pro 256GB 8GB,36939,19-Oct,206,Android,"Android 10, OxygenOS 10.0.4",2960,Snapdragon 855 Plus,470592,8,256,4,162.6,1440x3120,516,1,Qualcomm Adreno 640,106829,0,2,0,0,1,30,4085,0.8,48,2,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51601,619021,6800,34085,1384707,4085922,61994586,5820006
+Oneplus,OnePlus 7T Pro 256GB 12GB,41483,19-Oct,206,Android,"Android 10, OxygenOS 10.0.4",2960,Snapdragon 855 Plus,470592,12,256,4,162.6,1440x3120,516,1,Qualcomm Adreno 640,106829,0,2,0,0,1,30,4085,0.8,48,2,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51601,623021,6800,34085,1388707,4089922,62394586,5824006
+Oneplus,OnePlus 7 Pro 5G 128GB,41990,19-May,206,Android,"Android 9.0 (Pie), upgradable to Android 10, OxygenOS 10.0.4",2840,Snapdragon 855,422995,6,128,4,162.6,1440x3120,515,1,Qualcomm Adreno 640,106829,0,2,0,0,1,30,4000,0.8,48,2,"Dual-LED dual-tone flash, panorama, HDR",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51501,568224,6800,34000,1333725,4026525,56914701,5759124
+Oneplus,OnePlus 7 Pro 5G 256GB 8GB,42999,19-May,206,Android,"Android 9.0 (Pie), upgradable to Android 10, OxygenOS 10.0.4",2840,Snapdragon 855,422995,8,256,4,162.6,1440x3120,515,1,Qualcomm Adreno 640,106829,0,2,0,0,1,30,4000,0.8,48,2,"Dual-LED dual-tone flash, panorama, HDR",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51501,570224,6800,34000,1335725,4028525,57114701,5761124
+Oneplus,OnePlus 7 Pro 5G 256GB 12GB,56990,19-May,206,Android,"Android 9.0 (Pie), upgradable to Android 10, OxygenOS 10.0.4",2840,Snapdragon 855,422995,12,256,4,162.6,1440x3120,515,1,Qualcomm Adreno 640,106829,0,2,0,0,1,30,4000,0.8,48,2,"Dual-LED dual-tone flash, panorama, HDR",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,51501,574224,6800,34000,1339725,4032525,57514701,5765124
+Oneplus,OnePlus 7 128GB,29990,19-May,182,Android,"Android 9.0 (Pie), upgradable to Android 10, OxygenOS 10.0.5",2840,Snapdragon 855,422995,6,128,4,157.7,1080x2340,402,1,Qualcomm Adreno 640,106829,0,2,0,0,1,20,3700,0.8,48,2,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40201,568224,6800,23700,1312125,2985225,56893101,4618824
+Oneplus,OnePlus 7 256GB,30999,19-May,182,Android,"Android 9.0 (Pie), upgradable to Android 10, OxygenOS 10.0.5",2840,Snapdragon 855,422995,8,256,4,157.7,1080x2340,402,1,Qualcomm Adreno 640,106829,0,2,0,0,1,20,3700,0.8,48,2,"Dual-LED flash, HDR, panorama",13,16,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,40201,570224,6800,23700,1314125,2987225,57093101,4620824
+Oppo,A11k 2020 Dual SIM TD-LTE V1 IN PK 32GB CPH2083 / CPH2071,7641,20-Jun,165,Android,Google Android 9.0 (Pie),2300,Helio P35,94992,2,32,3,157.9,720x1520,271,0,PowerVR GE8320,11243,2,1,1,1,0,10,4230,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,4.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27100,134235,6574.545455,14230,833019.5455,1590909.545,13471404.55,2865039.545
+Oppo,A12 2020 Dual SIM TD-LTE V1 IN ID PK BD 32GB CPH2083,8541,20-Jun,165,Android,Google Android 9.0 (Pie),2300,Helio P35,94992,3,32,3,157.9,720x1520,271,0,PowerVR GE8320,11243,2,1,1,1,0,10,4230,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,4.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27100,135235,6574.545455,14230,834019.5455,1591909.545,13571404.55,2866039.545
+Oppo,A12 2020 Dual SIM TD-LTE V1 IN ID PK BD 64GB CPH2083,10341,20-Jun,165,Android,Google Android 9.0 (Pie),2300,Helio P35,94992,4,64,3,157.9,720x1520,271,0,PowerVR GE8320,11243,2,1,1,1,0,10,4230,1.12,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,4.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27100,136235,6574.545455,14230,835019.5455,1592909.545,13671404.55,2867039.545
+Oppo,A1k Dual SIM TD-LTE IN MN BD 32GB CPH1923,7990,19-Apr,174,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,2,32,3,155,720x1560,282,0,PowerVR GE8320,11243,2,1,1,1,0,10,4000,1.4,8,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Smile detection
+ , Face retouch",7,4.9,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,28200,111661,6854.545455,14000,839315.5455,1546715.545,11215154.55,2952515.545
+Oppo,A5 2020 Standard Edition Dual SIM TD-LTE V1 IN ID PK BD 128GB CPH1931,13994,19-Sep,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,6,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,2,1,1,1,10,5000,1.25,12,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",13,8,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27000,198206,7916.666667,15000,1031872.667,1733122.667,19870516.67,2921122.667
+Oppo,A5 2020 Standard Edition Dual SIM TD-LTE V1 IN ID PK BD 64GB 4GB CPH1931,10791,19-Sep,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,2,1,1,1,10,5000,1.25,12,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",13,8,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27000,196206,7916.666667,15000,1029872.667,1731122.667,19670516.67,2919122.667
+Oppo,A5 2020 Standard Edition Dual SIM TD-LTE V1 IN ID PK BD 64GB CPH1931,9891,19-Sep,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,3,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,2,1,1,1,10,5000,1.25,12,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",13,8,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27000,195206,7916.666667,15000,1028872.667,1730122.667,19570516.67,2918122.667
+Oppo,A52 2020 Premium Edition Dual SIM TD-LTE V1 IN ID PK BD NP 128GB CPH2061,13990,20-Jul,192,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,6,128,4,165.1,1080x2400,405,0,Qualcomm Adreno 610,24816,2,2,1,1,1,18,5000,1.25,12.4,1.79,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,15.9,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,40500,198206,7953.910615,23000,1057097.062,2546659.911,19892053.91,4279159.911
+Oppo,A52 2020 Standard Edition Dual SIM TD-LTE V1 IN ID PK BD NP 128GB CPH2061,10791,20-Jul,192,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,4,64,4,165.1,1080x2400,405,0,Qualcomm Adreno 610,24816,2,2,1,1,1,18,5000,1.25,12.4,1.79,"EIS
+ , EIS (video)
+ , HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,15.9,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,40500,196206,7953.910615,23000,1055097.062,2544659.911,19692053.91,4277159.911
+Oppo,A5s Premium Edition Dual SIM TD-LTE IN ID BD TH V3 32GB CPH1909,8990,19-Apr,170,Android,Google Android 8.1 (Oreo),2300,Helio P35,94992,3,32,3,157.4,720x1520,271,0,PowerVR GE8320,11243,2,1,1,1,0,10,4230,1.25,13,2.2,"HDR photo
+ , HDR video
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,27100,135235,6704.545455,14230,847019.5455,1592039.545,13571534.55,2866169.545
+Oppo,A9 2020 Premium Edition Dual SIM TD-LTE V1 IN ID PK NP BD 128GB CPH1939,18490,19-Oct,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,8,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,2,1,1,1,10,5000,0.8,48,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",13,15.9,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,200206,7466.666667,15000,988872.6667,1734672.667,20070066.67,2922672.667
+Oppo,A9 2020 Standard Edition Dual SIM TD-LTE V1 IN PK 128GB CPH1937,14599,19-Oct,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,2,1,1,1,10,5000,0.8,48,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",13,15.9,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7466.666667,15000,984872.6667,1730672.667,19670066.67,2918672.667
+Oppo,F11 Dual SIM TD-LTE IN ID V2 128GB CPH1911,16099,19-Mar,188,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,4,128,4,165.86,1080x2340,395,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,20,4020,0.8,48,1.79,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,238729,7503.910615,24020,1052640.062,2687732.911,23943923.91,4220252.911
+Oppo,F11 Dual SIM TD-LTE IN ID V2 64GB CPH1911,13990,19-May,188,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,4,64,4,165.86,1080x2340,395,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,20,4020,0.8,48,1.79,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,238729,7503.910615,24020,1052640.062,2687732.911,23943923.91,4220252.911
+Oppo,F11 Pro Dual SIM TD-LTE IN ID BD TH MN V3 128GB CPH1969,22990,19-Mar,191,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,6,128,4,165.8,1080x2340,395,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,20,4000,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,15.9,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,39500,240729,7503.910615,24000,1054620.062,2687732.911,24143903.91,4222232.911
+Oppo,F15 2020 Dual SIM TD-LTE IN 128GB CPH2001,17091,20-Jan,172,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,8,128,4,162.5,1080x2400,411,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,30,4025,0.8,48,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,41101,242729,7503.910615,34025,1068246.062,3693833.911,24355529.91,4394357.911
+Oppo,Find X2 5G Premium Edition Ceramic Global TD-LTE 256GB CPH2023,64990,20-Apr,209,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,256,5,170,1440x3168,520,1,Qualcomm Adreno 650,146854,3,2,0,0,1,65,4200,0.8,48,1.7,"EIS
+ , EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,52001,773617,7858.823529,69200,1680700.353,7753476.824,77490759.82,6050775.824
+Oppo,Find X2 Pro 5G Premium Edition Ceramic Global TD-LTE 512GB CPH2025,74890,20-Apr,207,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,512,5,170,1440x3168,520,1,Qualcomm Adreno 650,146854,3,2,0,0,1,65,4260,0.8,48,1.7,"EIS
+ , EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,52001,773617,7858.823529,69260,1680760.353,7759476.824,77490819.82,6050835.824
+Oppo,Find X2 Pro 5G Premium Edition Global TD-LTE 256GB CPH2025,74890,20-Apr,200,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,256,5,170,1440x3168,520,1,Qualcomm Adreno 650,146854,3,2,0,0,1,65,4260,0.8,48,1.7,"EIS
+ , EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,52001,773617,7858.823529,69260,1680760.353,7759476.824,77490819.82,6050835.824
+Oppo,K3 Dual SIM TD-LTE APAC 128GB CPH1955,29999,19-Jul,191,Android,Google Android 9.0 (Pie),2200,Snapdragon 710,215043,8,128,4,165.1,1080x2340,396,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,20,3765,1.22,15.9,1.7,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39601,287331.5,8278.823529,23765,1178579.853,2711711.324,28804794.82,4279475.324
+Oppo,K3 Dual SIM TD-LTE APAC 64GB CPH1955,23990,19-Jul,191,Android,Google Android 9.0 (Pie),2200,Snapdragon 710,215043,6,64,4,165.1,1080x2340,396,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,20,3765,1.22,15.9,1.7,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39601,285331.5,8278.823529,23765,1176579.853,2709711.324,28604794.82,4277475.324
+Oppo,Realme 3 Pro Premium Edition Dual SIM TD-LTE APAC 128GB RMX1851,15999,19-Apr,172,Android,Google Android 9.0 (Pie),2208,Snapdragon 710,215043,6,128,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,0,0,20,4045,1.22,16.3,1.7,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,24.8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,285411.5,8278.823529,24045,1178238.853,2739090.324,28614373.82,4407735.324
+Oppo,Realme 3 Pro Premium Edition Dual SIM TD-LTE APAC 64GB RMX1851,15640,19-Apr,172,Android,Google Android 9.0 (Pie),2208,Snapdragon 710,215043,6,64,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,0,0,20,4045,1.22,16.3,1.7,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,24.8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,285411.5,8278.823529,24045,1178238.853,2739090.324,28614373.82,4407735.324
+Oppo,Realme 3 Pro Standard Edition Dual SIM TD-LTE APAC 64GB RMX1851,10499,19-Apr,172,Android,Google Android 9.0 (Pie),2208,Snapdragon 710,215043,4,64,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,0,0,20,4045,1.22,16.3,1.7,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,24.8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,283411.5,8278.823529,24045,1176238.853,2737090.324,28414373.82,4405735.324
+Oppo,Realme 3i Dual SIM TD-LTE IN 32GB RMX1827,8499,19-Jul,175,Android,Google Android 9.0 (Pie),2000,Helio P60,168116,3,32,4,158,720x1520,270,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,10,4230,1.12,13,1.8,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,13,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27000,215731,7786.666667,14230,1035627.667,1673517.667,21622116.67,2937747.667
+Oppo,Realme 3i Dual SIM TD-LTE IN 64GB RMX1827,10499,19-Jul,175,Android,Google Android 9.0 (Pie),2000,Helio P60,168116,4,64,4,158,720x1520,270,0,ARM Mali-G72 MP3,20615,2,1,1,1,0,10,4230,1.12,13,1.8,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,13,0,1,1,0,1,0,1,0,0,0,0,1,1,1,1,27000,216731,7786.666667,14230,1036627.667,1674517.667,21722116.67,2938747.667
+Oppo,Realme 5 Premium Edition Dual SIM TD-LTE V1 IN ID PH PK TH VN 128GB RMX1911,12999,19-Sep,198,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12.2,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,13.1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7916.666667,15000,1029872.667,1731122.667,19670516.67,2919122.667
+Oppo,Realme 5 Premium Edition Dual SIM TD-LTE V1 IN TH 64GB RMX1911,11999,19-Aug,198,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12.2,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,13.1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7916.666667,15000,1029872.667,1731122.667,19670516.67,2919122.667
+Oppo,Realme 5 Pro Premium Edition Dual SIM TD-LTE IN 64GB RMX1971,14999,19-Sep,184,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,64,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4035,0.8,48,1.79,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,296291.5,7503.910615,24035,1111617.562,2748195.411,29701588.91,4417830.411
+Oppo,Realme 5 Pro Premium Edition Dual SIM TD-LTE IN TH 128GB RMX1971,16199,19-Sep,184,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,8,128,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4035,0.8,48,1.79,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,298291.5,7503.910615,24035,1113617.562,2750195.411,29901588.91,4419830.411
+Oppo,Realme 5 Pro Standard Edition Dual SIM TD-LTE IN 64GB RMX1971,14999,19-Sep,184,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,4,64,4,160,1080x2340,409,0,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4035,0.8,48,1.79,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,294291.5,7503.910615,24035,1109617.562,2746195.411,29501588.91,4415830.411
+Oppo,Realme 5 Standard Edition Dual SIM TD-LTE V1 IN ID PH TH VN 32GB RMX1911,10999,19-Aug,198,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,3,32,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12.2,1.8,"EIS
+  , EIS (video)
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,13.1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,195206,7916.666667,15000,1028872.667,1730122.667,19570516.67,2918122.667
+Oppo,Realme 5i Premium Edition Dual SIM TD-LTE V1 IN ID VN TH SG TR 64GB RMX2030,10999,20-Jan,195,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12,1.8,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7916.666667,15000,1029872.667,1731122.667,19670516.67,2919122.667
+Oppo,Realme 5s Dual SIM TD-LTE V1 IN ID TH 128GB RMX1925,12509,19-Dec,198,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,0.8,48,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,13.1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7466.666667,15000,984872.6667,1730672.667,19670066.67,2918672.667
+Oppo,Realme 5s Dual SIM TD-LTE V1 IN TH 64GB RMX1925,10999,19-Dec,198,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,0.8,48,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,13.1,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,196206,7466.666667,15000,984872.6667,1730672.667,19670066.67,2918672.667
+Oppo,Realme 6 Premium Edition Dual SIM TD-LTE V1 IN ID SG TH TR 128GB RMX2001,14580,20-Mar,191,Android,Google Android 10 (Q),2050,Helio G90T,278615,8,128,4,165,1080x2400,405,0,ARM Mali-G76 MP4,37800,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,15.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,40500,348915,7466.666667,34300,1170381.667,3826881.667,34973766.67,4440681.667
+Oppo,Realme 6 Pro Premium Edition Dual SIM TD-LTE V1 IN ID TR PK TH 128GB RMX2061,19999,20-Mar,195,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,8,128,4,166.4,1080x2400,402,0,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40200,358344,7466.666667,34300,1179510.667,3836010.667,35916366.67,4420110.667
+Oppo,Realme 6 Pro Standard Edition Dual SIM TD-LTE V1 IN 64GB RMX2061,17099,20-Mar,195,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,64,4,166.4,1080x2400,402,0,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40200,356344,7466.666667,34300,1177510.667,3834010.667,35716366.67,4418110.667
+Oppo,Realme 6 Pro Standard Edition Dual SIM TD-LTE V1 IN ID TR PK TH 128GB RMX2061,20590,20-Mar,195,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,128,4,166.4,1080x2400,402,0,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40200,356344,7466.666667,34300,1177510.667,3834010.667,35716366.67,4418110.667
+Oppo,Realme 6 Standard Edition Dual SIM TD-LTE V1 IN 64GB RMX2001,13999,20-Mar,191,Android,Google Android 10 (Q),2050,Helio G90T,278615,4,64,4,165,1080x2400,405,0,ARM Mali-G76 MP4,37800,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,15.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,40500,344915,7466.666667,34300,1166381.667,3822881.667,34573766.67,4436681.667
+Oppo,Realme 6 Standard Edition Dual SIM TD-LTE V1 IN ID SG TH TR 128GB RMX2001,14391,20-Mar,191,Android,Google Android 10 (Q),2050,Helio G90T,278615,6,128,4,165,1080x2400,405,0,ARM Mali-G76 MP4,37800,2,1,1,1,1,30,4300,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,15.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,40500,346915,7466.666667,34300,1168381.667,3824881.667,34773766.67,4438681.667
+Oppo,Realme 7 Pro Premium Edition Dual SIM TD-LTE V1 IN 128GB RMX2170,21999,20-Oct,182,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,8,128,4,162.6,1080x2400,411,1,Qualcomm Adreno 618,52700,2,2,1,1,1,65,4500,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,0,1,0,0,0,1,0,0,0,1,1,0,41101,358344,7466.666667,69500,1215611.667,7356911.667,35952467.67,4545410.667
+Oppo,Realme 7 Pro Standard Edition Dual SIM TD-LTE V1 IN 128GB RMX2170,19791,20-Oct,182,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,128,4,162.6,1080x2400,411,1,Qualcomm Adreno 618,52700,2,2,1,1,1,65,4500,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,0,1,0,0,0,1,0,0,0,1,1,0,41101,356344,7466.666667,69500,1213611.667,7354911.667,35752467.67,4543410.667
+Oppo,Realme 7i Dual SIM TD-LTE V1 IN 128GB RMX2103,12999,20-Oct,188,Android,Google Android 10 (Q),2000,Snapdragon 662,175239,4,128,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,1,18,5000,0.8,64.2,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,27000,228055,7466.666667,23000,1024721.667,2562521.667,22862966.67,2958521.667
+Oppo,Realme 7i Dual SIM TD-LTE V1 IN 64GB RMX2103,11547,20-Oct,188,Android,Google Android 10 (Q),2000,Snapdragon 662,175239,4,64,4,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,1,18,5000,0.8,64.2,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,27000,228055,7466.666667,23000,1024721.667,2562521.667,22862966.67,2958521.667
+Oppo,Realme C12 2020 Dual SIM TD-LTE V1 IN ID 32GB RMX2189,8590,20-Aug,209,Android,Google Android 10 (Q),2300,Helio G35,107316,3,32,4,165,720x1600,270,0,PowerVR GE8320,11243,2,1,1,1,0,10,6000,0.8,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",11,5,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,148559,6254.545455,16000,817013.5455,1781813.545,14905154.55,2870813.545
+Oppo,Realme C15 2020 Premium Edition Dual SIM TD-LTE V1 IN ID 64GB RMX2186,9886,20-Aug,209,Android,Google Android 10 (Q),2300,Helio G35,107316,4,64,4,165,720x1600,270,0,PowerVR GE8320,11243,2,1,1,1,0,18,6000,1.2,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",11,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,149559,6654.545455,24000,866013.5455,2583213.545,15013554.55,2880213.545
+Oppo,Realme C15 2020 Standard Edition Dual SIM TD-LTE V1 IN ID 64GB RMX2186,8910,20-Aug,209,Android,Google Android 10 (Q),2300,Helio G35,107316,3,64,4,165,720x1600,270,0,PowerVR GE8320,11243,2,1,1,1,0,18,6000,1.2,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",11,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,148559,6654.545455,24000,865013.5455,2582213.545,14913554.55,2879213.545
+Oppo,Realme C2 Premium Edition Dual SIM TD-LTE IN 32GB RMX1941,7499,19-May,166,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,3,32,4,154.9,720x1560,282,0,PowerVR GE8320,11243,2,1,1,1,0,10,4000,1.25,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,4.9,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,28200,113661,6704.545455,14000,826315.5455,1548565.545,11415004.55,2954365.545
+Oppo,Realme C2 Standard Edition Dual SIM TD-LTE IN 32GB RMX1941,6999,19-May,166,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,2,32,4,154.9,720x1560,282,0,PowerVR GE8320,11243,2,1,1,1,0,10,4000,1.25,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,4.9,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,28200,112661,6704.545455,14000,825315.5455,1547565.545,11315004.55,2953365.545
+Oppo,Realme C2 Standard Edition Dual SIM TD-LTE IN ID 16GB RMX1945,6499,19-May,166,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,2,16,4,154.9,720x1560,282,0,PowerVR GE8320,11243,2,1,1,1,0,10,4000,1.25,13,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,4.9,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,28200,112661,6704.545455,14000,825315.5455,1547565.545,11315004.55,2953365.545
+Oppo,Realme C3 Standard Edition Dual SIM TD-LTE IN 32GB RMX2027 / C3i,7830,20-Feb,195,Android,Google Android 10 (Q),2000,Helio G70,193895,3,32,4,165.1,720x1600,270,0,ARM Mali-G52 MP2,23875,2,1,1,1,0,10,5000,1.25,12,1.8,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,5,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,27000,244770,7916.666667,15000,1078436.667,1779686.667,24526916.67,2967686.667
+Oppo,Realme C3 Standard Edition Dual SIM TD-LTE IN 64GB RMX2027 / C3i,9779,20-Feb,195,Android,Google Android 10 (Q),2000,Helio G70,193895,4,64,4,165.1,720x1600,270,0,ARM Mali-G52 MP2,23875,2,1,1,1,0,10,5000,1.25,12,1.8,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",14,5,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,27000,245770,7916.666667,15000,1079436.667,1780686.667,24626916.67,2968686.667
+Oppo,Realme Narzo 10 Dual SIM TD-LTE IN 128GB RMX2040,12899,20-May,195,Android,Google Android 10 (Q),2000,Helio G80,199660,4,128,4,165.1,720x1600,270,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,18,5000,0.8,48,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,251535,7466.666667,23000,1048201.667,2586001.667,25210966.67,2982001.667
+Oppo,Realme Narzo 10A Dual SIM TD-LTE IN 32 GB RMX2020,9441,20-May,195,Android,Google Android 10 (Q),2000,Helio G70,193895,3,32,4,165.1,720x1600,270,0,ARM Mali-G52 MP2,23875,2,1,1,1,0,10,5000,1.25,12,1.8,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,4.9,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,244770,7916.666667,15000,1078436.667,1779686.667,24526916.67,2967686.667
+Oppo,Realme Narzo 20 Dual SIM TD-LTE IN 128GB RMX2193,13199,20-Sep,208,Android,Google Android 10 (Q),2000,Helio G85,193180,4,128,4,165.6,720x1600,269,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,18,6000,0.8,48,1.79,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,26900,245055,7503.910615,24000,1046346.062,2679458.911,24563903.91,2966558.911
+Oppo,Realme Narzo 20 Dual SIM TD-LTE IN 64GB RMX2193,12199,20-Sep,208,Android,Google Android 10 (Q),2000,Helio G85,193180,4,64,4,165.6,720x1600,269,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,18,6000,0.8,48,1.79,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,26900,245055,7503.910615,24000,1046346.062,2679458.911,24563903.91,2966558.911
+Oppo,Realme Narzo 20 Pro Dual SIM TD-LTE V1 IN 128GB RMX2161,15999,20-Oct,191,Android,Google Android 10 (Q),2050,Helio G95,293827,8,128,4,165.1,1080x2400,405,0,ARM Mali-G76 MP4,37800,2,1,1,1,1,65,4500,0.8,48,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,40500,364127,7466.666667,69500,1220793.667,7362093.667,36530166.67,4491093.667
+Oppo,Realme Narzo 20 Pro Dual SIM TD-LTE V1 IN 64GB RMX2161,13999,20-Oct,191,Android,Google Android 10 (Q),2050,Helio G95,293827,6,64,4,165.1,1080x2400,405,0,ARM Mali-G76 MP4,37800,2,1,1,1,1,65,4500,0.8,48,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,40500,362127,7466.666667,69500,1218793.667,7360093.667,36330166.67,4489093.667
+Oppo,Realme Narzo 20A Dual SIM TD-LTE V1 IN 32GB RMX2050,9109,20-Oct,195,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,3,32,3,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12,1.8,"EIS
+ , EIS (video)
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,194206,7916.666667,15000,1027872.667,1729122.667,19470516.67,2917122.667
+Oppo,Realme Narzo 20A Dual SIM TD-LTE V1 IN 64GB RMX2050,9899,20-Oct,195,Android,Google Android 10 (Q),2000,Snapdragon 665,143390,4,64,3,165.1,720x1600,270,0,Qualcomm Adreno 610,24816,2,1,1,1,0,10,5000,1.25,12,1.8,"EIS
+ , EIS (video)
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,8,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,27000,195206,7916.666667,15000,1028872.667,1730122.667,19570516.67,2918122.667
+Oppo,Realme X Premium Edition Dual SIM TD-LTE APAC 128GB RMX1903,20999,19-Jul,191,Android,Google Android 9.0 (Pie),2208,Snapdragon 710,215043,8,128,4,165.9,1080x2340,395,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,20,3765,0.8,48,1.7,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39501,287411.5,7858.823529,23765,1136559.853,2711271.324,28812274.82,4269135.324
+Oppo,Realme X Standard Edition Dual SIM TD-LTE APAC 128GB RMX1901,17799,19-Jul,191,Android,Google Android 9.0 (Pie),2208,Snapdragon 710,215043,4,128,4,165.9,1080x2340,395,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,20,3765,0.8,48,1.7,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,39501,283411.5,7858.823529,23765,1132559.853,2707271.324,28412274.82,4265135.324
+Oppo,Realme X2 Premium Edition Global Dual SIM TD-LTE 128GB RMX1991,20999,19-Oct,182,Android,Google Android 9.0 (Pie),2200,Snapdragon 730G,274094,8,128,4,162.6,1080x2340,403,1,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40301,360794,7466.666667,34000,1181761.667,3808561.667,36161167.67,4432360.667
+Oppo,Realme X2 Pro 128GB,31999,19-Dec,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,12,128,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,622981,7466.666667,54000,1463848.667,6070648.667,62399767.67,4704547.667
+Oppo,Realme X2 Pro 256GB,35998,19-Dec,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,12,256,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,622981,7466.666667,54000,1463848.667,6070648.667,62399767.67,4704547.667
+Oppo,Realme X2 Pro 64GB 6GB,27441,19-Dec,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,12,64,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,622981,7466.666667,54000,1463848.667,6070648.667,62399767.67,4704547.667
+Oppo,Realme X2 Pro Master Edition Global Dual SIM TD-LTE 256GB RMX1931,36999,19-Dec,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,12,256,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,622981,7466.666667,54000,1463848.667,6070648.667,62399767.67,4704547.667
+Oppo,Realme X2 Pro Premium Edition Global Dual SIM TD-LTE 128GB RMX1931,31999,19-Nov,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,8,128,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,618981,7466.666667,54000,1459848.667,6066648.667,61999767.67,4700547.667
+Oppo,Realme X2 Pro Premium Edition Global Dual SIM TD-LTE 256GB RMX1931,35998,19-Nov,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,12,256,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,622981,7466.666667,54000,1463848.667,6070648.667,62399767.67,4704547.667
+Oppo,Realme X2 Pro Standard Edition Global Dual SIM TD-LTE 64GB RMX1931,27441,19-Nov,199,Android,Google Android 9.0 (Pie),2956,Snapdragon 855 Plus,470592,6,64,4,166.3,1080x2400,402,1,Qualcomm Adreno 640,106829,2,2,1,0,1,50,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40201,616981,7466.666667,54000,1457848.667,6064648.667,61799767.67,4698547.667
+Oppo,Realme X2 Standard Edition Global Dual SIM TD-LTE 128GB RMX1991,21990,19-Oct,182,Android,Google Android 9.0 (Pie),2200,Snapdragon 730G,274094,6,128,4,162.6,1080x2340,403,1,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40301,358794,7466.666667,34000,1179761.667,3806561.667,35961167.67,4430360.667
+Oppo,Realme X2 Standard Edition Global Dual SIM TD-LTE 256GB RMX1991,21681,19-Oct,182,Android,Google Android 9.0 (Pie),2200,Snapdragon 730G,274094,8,256,4,162.6,1080x2340,403,1,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40301,360794,7466.666667,34000,1181761.667,3808561.667,36161167.67,4432360.667
+Oppo,Realme X2 Standard Edition Global Dual SIM TD-LTE 64GB RMX1991,17099,19-Oct,182,Android,Google Android 9.0 (Pie),2200,Snapdragon 730G,274094,6,64,4,162.6,1080x2340,403,1,Qualcomm Adreno 618,52700,2,1,1,1,1,30,4000,0.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,40301,358794,7466.666667,34000,1179761.667,3806561.667,35961167.67,4430360.667
+Oppo,Realme X3 Premium Edition Dual SIM TD-LTE V2 IN 128GB RMX2081,22997,20-Jul,202,Android,Google Android 10 (Q),2960,Snapdragon 855 Plus,470592,8,128,4,167.64,1080x2400,399,0,Qualcomm Adreno 640,106829,2,1,0,0,1,30,4200,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,39900,619021,7466.666667,34200,1439787.667,4086387.667,61983666.67,4650687.667
+Oppo,Realme X3 Standard Edition Dual SIM TD-LTE V2 IN 128GB RMX2081,21999,20-Jul,202,Android,Google Android 10 (Q),2960,Snapdragon 855 Plus,470592,6,128,4,167.64,1080x2400,399,0,Qualcomm Adreno 640,106829,2,1,0,0,1,30,4200,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,39900,617021,7466.666667,34200,1437787.667,4084387.667,61783666.67,4648687.667
+Oppo,Realme X3 SuperZoom Dual SIM TD-LTE V2 ID TH PL 128GB RMX2085,23665,20-Jun,202,Android,Google Android 10 (Q),2960,Snapdragon 855 Plus,470592,8,128,4,167.64,1080x2400,399,0,Qualcomm Adreno 640,106829,2,1,0,0,1,30,4200,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,39900,619021,7466.666667,34200,1439787.667,4086387.667,61983666.67,4650687.667
+Oppo,Realme X3 SuperZoom Dual SIM TD-LTE V2 ID TH PL 256GB RMX2085,26991,20-Jun,202,Android,Google Android 10 (Q),2960,Snapdragon 855 Plus,470592,12,256,4,167.64,1080x2400,399,0,Qualcomm Adreno 640,106829,2,1,0,0,1,30,4200,0.8,64.4,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,1,39900,623021,7466.666667,34200,1443787.667,4090387.667,62383666.67,4654687.667
+Oppo,Realme X50 Pro 5G Premium Edition Dual SIM TD-LTE IN 256GB RMX2076,40999,20-Mar,207,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,12,256,5,163.6,1080x2400,409,1,Qualcomm Adreno 650,146854,2,2,0,0,1,65,4200,0.8,63.7,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,40901,773617,7466.666667,69200,1630384.667,7741984.667,77479267.67,4940383.667
+Oppo,Realme X50 Pro 5G Standard Edition Dual SIM TD-LTE IN 128GB RMX2076,39999,20-Mar,207,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,8,128,5,163.6,1080x2400,409,1,Qualcomm Adreno 650,146854,2,2,0,0,1,65,4200,0.8,63.7,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,40901,769617,7466.666667,69200,1626384.667,7737984.667,77079267.67,4936383.667
+Oppo,Realme XT Premium Edition Dual SIM TD-LTE V1 IN ID PK TH VN PH 128GB RMX1921,19999,19-Oct,183,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,8,128,4,162.6,1080x2340,403,1,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4000,1.8,63.7,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,40301,298291.5,8466.666667,24000,1209259.167,2747059.167,29901917.67,4360858.167
+Oppo,Realme XT Premium Edition Dual SIM TD-LTE V1 IN VN 64GB RMX1921,17999,19-Oct,183,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,6,64,4,162.6,1080x2340,403,1,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4000,1.8,63.7,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,40301,296291.5,8466.666667,24000,1207259.167,2745059.167,29701917.67,4358858.167
+Oppo,Realme XT Standard Edition Dual SIM TD-LTE V1 IN VN 64GB RMX1921,16999,19-Oct,183,Android,Google Android 9.0 (Pie),2300,Snapdragon 712,225003,4,64,4,162.6,1080x2340,403,1,Qualcomm Adreno 616,38288.5,2,1,1,1,1,20,4000,1.8,63.7,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",16,15.9,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,40301,294291.5,8466.666667,24000,1205259.167,2743059.167,29501917.67,4356858.167
+Oppo,Reno 10x Zoom Edition Global Dual SIM TD-LTE V1 128GB CPH1919,38888,19-May,215,Android,Google Android 9.0 (Pie),2842,Snapdragon 855,422995,6,128,4,168.9,1080x2340,388,1,Qualcomm Adreno 640,106829,3,1,0,1,1,10,4065,0.8,48,1.7,"EIS (video)
+  , OIS
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,15.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,38801,568244,7858.823529,14065,1406992.353,2021403.824,56885124.82,4470267.824
+Oppo,Reno 10x Zoom Edition Global Dual SIM TD-LTE V1 256GB CPH1919,40304,19-May,215,Android,Google Android 9.0 (Pie),2842,Snapdragon 855,422995,6,256,4,168.9,1080x2340,388,1,Qualcomm Adreno 640,106829,3,1,0,1,1,10,4065,0.8,48,1.7,"EIS (video)
+  , OIS
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,15.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,38801,568244,7858.823529,14065,1406992.353,2021403.824,56885124.82,4470267.824
+Oppo,Reno2 F Dual SIM TD-LTE IN ID PK NP V1 128GB CPH1989,19791,19-Sep,195,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,8,128,4,165,1080x2340,397,1,ARM Mali-G72 MP3,20615,3,1,1,1,1,20,4000,0.8,48,1.79,"Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",15,16.2,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,39701,242729,7503.910615,24000,1056821.062,2689933.911,24344104.91,4244332.911
+Oppo,Reno2 F Dual SIM TD-LTE IN ID PK NP V1 256GB CPH1989,16990,19-Sep,195,Android,Google Android 9.0 (Pie),2100,Helio P70,189114,6,256,4,165,1080x2340,397,1,ARM Mali-G72 MP3,20615,3,1,1,1,1,20,4000,0.8,48,1.79,"Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",15,16.2,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,39701,240729,7503.910615,24000,1054821.062,2687933.911,24144104.91,4242332.911
+Oppo,Reno2 Global Dual SIM TD-LTE V1 256GB CPH1907,28990,19-Sep,189,Android,Google Android 9.0 (Pie),2200,Snapdragon 730G,274094,8,256,4,166,1080x2400,403,1,Qualcomm Adreno 618,52700,3,2,1,0,1,20,4000,0.8,48,1.7,"EIS (video)
+  , OIS
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,15.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,40301,360794,7858.823529,24000,1210977.353,2808953.824,36151559.82,4422752.824
+Oppo,Reno2 Z Dual SIM TD-LTE IN V1 256GB CPH1945,24741,19-Sep,195,Android,Google Android 9.0 (Pie),2200,Helio P90,217983,8,256,4,165,1080x2340,397,1,PowerVR GM9446,28629,3,1,1,1,1,20,4000,0.8,48,1.7,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",17,16.2,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,39701,280612,7858.823529,24000,1130195.353,2728171.824,28132759.82,4282570.824
+Oppo,Reno3 Pro Dual SIM TD-LTE IN 128GB CPH2035,23391,20-Mar,175,Android,Google Android 10 (Q),2200,Helio P95,210015,8,128,4,163,1080x2400,410,1,PowerVR GM9446,28629,2,2,1,1,1,30,4025,0.8,64.4,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,43.7,1,1,1,1,1,0,1,0,1,1,0,0,1,1,0,41001,272644,7503.910615,34025,1098061.062,3723648.911,27346929.91,4414272.911
+Oppo,Reno3 Pro Dual SIM TD-LTE IN 256GB CPH2035,29990,20-Mar,175,Android,Google Android 10 (Q),2200,Helio P95,210015,8,256,4,163,1080x2400,410,1,PowerVR GM9446,28629,2,2,1,1,1,30,4025,0.8,64.4,1.79,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,43.7,1,1,1,1,1,0,1,0,1,1,0,0,1,1,0,41001,272644,7503.910615,34025,1098061.062,3723648.911,27346929.91,4414272.911
+Oppo,Reno4 Pro 4G Dual SIM TD-LTE APAC V1 128GB CPH2109,31491,20-Aug,161,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,8,128,4,166,1080x2400,403,1,Qualcomm Adreno 618,52700,2,1,0,1,1,65,4000,0.8,48,1.7,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32.3,1,1,1,1,1,0,1,0,1,0,0,0,1,1,1,40301,358344,7858.823529,69000,1253527.353,7306503.824,35951559.82,4465302.824
+Samsung,SM-A015G/DS Galaxy A01 2019 Dual SIM TD-LTE APAC,7990,20-Feb,149,Android,Google Android 9.0 (Pie),1960,Snapdragon 439,88015,2,16,3,145.1,720x1520,294,0,Qualcomm Adreno 505,10069,2,1,1,1,0,10,3000,0.8,13,2.2,"HDR photo
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",10,4.9,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,29400,122684,6254.545455,13000,790538.5455,1458338.545,12317054.55,3081938.545
+Samsung,SM-A105FN/DS Galaxy A10 2019 Global Dual SIM TD-LTE 32GB,7990,19-Mar,168,Android,Google Android 9.0 (Pie),1600,Exynos 7884,94602,2,32,4,158,720x1520,270,0,ARM Mali-G71 MP2,11269,2,1,1,1,0,10,3400,0.8,13,1.9,"HDR photo
+  , Red-eye reduction
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",10,4.9,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,27000,127871,7115.789474,13400,879849.9474,1501986.789,12834615.79,2848386.789
+Samsung,SM-A107F/DS Galaxy A10s 2019 Premium Edition Global Dual SIM TD-LTE 3GB,9539,19-Sep,168,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,3,32,4,157.9,720x1520,271,0,PowerVR GE8320,11243,1,1,1,1,0,10,4000,0.8,13,1.8,"HDR photo
+  , Red-eye reduction
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",10,8,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,27100,113661,7466.666667,14000,901427.6667,1548227.667,11414666.67,2845127.667
+Samsung,SM-A107F/DS Galaxy A10s 2019 Premium Edition Global Dual SIM TD-LTE 2GB,8999,19-Sep,168,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,2,32,4,157.9,720x1520,271,0,PowerVR GE8320,11243,1,1,1,1,0,10,4000,0.8,13,1.8,"HDR photo
+  , Red-eye reduction
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",10,8,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,27100,112661,7466.666667,14000,900427.6667,1547227.667,11314666.67,2844127.667
+Samsung,SM-A207F/DS Galaxy A20s 2019 Global Dual SIM TD-LTE 32GB 4GB,12900,19-Sep,183,Android,Google Android 9.0 (Pie),1800,Snapdragon 450,87173,4,32,3,164.9,720x1560,265,0,Qualcomm Adreno 506,13259,2,1,1,1,1,15,4000,0.8,13,1.8,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",12,8,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26500,125432,7466.666667,19000,917598.6667,2059398.667,12596166.67,2801898.667
+Samsung,SM-A207F/DS Galaxy A20s 2019 Global Dual SIM TD-LTE 32GB 3GB,12900,19-Sep,183,Android,Google Android 9.0 (Pie),1800,Snapdragon 450,87173,3,32,3,164.9,720x1560,265,0,Qualcomm Adreno 506,13259,2,1,1,1,1,15,4000,0.8,13,1.8,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",12,8,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26500,124432,7466.666667,19000,916598.6667,2058398.667,12496166.67,2800898.667
+Samsung,SM-A207F/DS Galaxy A20s 2019 Global Dual SIM TD-LTE 64GB,13695,19-Sep,183,Android,Google Android 9.0 (Pie),1800,Snapdragon 450,87173,4,64,3,164.9,720x1560,265,0,Qualcomm Adreno 506,13259,2,1,1,1,1,15,4000,0.8,13,1.8,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Intelligent scene detection",12,8,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26500,125432,7466.666667,19000,917598.6667,2059398.667,12596166.67,2801898.667
+Samsung,SM-A217F/DS Galaxy A21s 2020 Premium Edition Global Dual SIM TD-LTE 64GB,18900,20-Jun,192,Android,Google Android 10 (Q),2000,Exynos 850,125660,6,64,4,166.3,720x1600,268,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,15,5000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,13,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26800,179535,6800,20000,906335,2213135,18007100,2886335
+Samsung,SM-A217F/DS Galaxy A21s 2020 Standard Edition Global Dual SIM TD-LTE 64GB,13949,20-Jun,192,Android,Google Android 10 (Q),2000,Exynos 850,125660,4,64,4,166.3,720x1600,268,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,15,5000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,13,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26800,177535,6800,20000,904335,2211135,17807100,2884335
+Samsung,SM-A217F/DSN Galaxy A21s 2020 Standard Edition Global Dual SIM TD-LTE 32GB,13949,20-Jun,192,Android,Google Android 10 (Q),2000,Exynos 850,125660,3,32,4,166.3,720x1600,268,0,ARM Mali-G52 MP2,23875,2,1,1,1,1,15,5000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",12,13,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,26800,176535,6800,20000,903335,2210135,17707100,2883335
+Samsung,SM-A307FN/DS Galaxy A30s 2019 Dual SIM TD-LTE EMEA IN 128GB,15170,19-Aug,169,Android,Google Android 9.0 (Pie),1800,Exynos 7904,106772,4,128,4,162,720x1560,269,1,ARM Mali-G71 MP2,11269,2,1,1,1,1,15,4000,0.8,24.9,1.7,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",11,15.9,1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,26901,144041,7858.823529,19000,975824.3529,2078800.824,14457859.82,2860999.824
+Samsung,SM-A307FN/DS Galaxy A30s 2019 Dual SIM TD-LTE EMEA IN 64GB,14999,19-Aug,169,Android,Google Android 9.0 (Pie),1800,Exynos 7904,106772,4,64,4,162,720x1560,269,1,ARM Mali-G71 MP2,11269,2,1,1,1,1,15,4000,0.8,24.9,1.7,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",11,15.9,1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,26901,144041,7858.823529,19000,975824.3529,2078800.824,14457859.82,2860999.824
+Samsung,SM-A315F/DS Galaxy A31 2020 Global Dual SIM TD-LTE 64GB,17999,20-Apr,185,Android,Google Android 10 (Q),2000,Helio P65,183182,4,64,4,162.56,1080x2400,411,1,ARM Mali-G52 MP2,23875,2,1,1,1,1,15,5000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",12,17.8,1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,41101,235057,6800,20000,976158,2282958,23573601,4371957
+Samsung,SM-A415F/DSN Galaxy A41 2020 Global Dual SIM TD-LTE / SM-A415F/DS,22990,20-May,152,Android,Google Android 10 (Q),2000,Helio P65,183182,4,64,4,154.94,1080x2400,431,1,ARM Mali-G52 MP2,23875,2,1,1,1,1,15,3500,0.8,48,2,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",12,24.8,1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,43101,235057,6800,18500,976658,2134958,23574101,4570457
+Samsung,SM-A507FN/DS Galaxy A50s 2019 Premium Edition Global Dual SIM TD-LTE 128GB,14999,19-Sep,166,Android,Google Android 9.0 (Pie),2290,Exynos 9610,172508,4,128,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,4000,0.8,48,2,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",11,32,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,40401,224023,6800,19000,963424,2171224,22468501,4289923
+Samsung,SM-A507FN/DS Galaxy A50s 2019 Standard Edition Global Dual SIM TD-LTE 128GB,23990,19-Sep,166,Android,Google Android 9.0 (Pie),2290,Exynos 9610,172508,6,128,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,4000,0.8,48,2,"HDR photo
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",11,32,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,40401,226023,6800,19000,965424,2173224,22668501,4291923
+Samsung,SM-A515F/DS Galaxy A51 2019 Global Dual SIM TD-LTE 128GB,29656,20-Jan,172,Android,Google Android 10 (Q),2300,Exynos 9611,179637,4,128,4,164,1080x2400,408,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,4000,0.8,48,2,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",13,32,1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,40801,231252,6800,19000,971053,2178853,23191801,4337152
+Samsung,SM-A515F/DSN Galaxy A51 2019 Global Dual SIM TD-LTE 128GB,22049,20-Jan,172,Android,Google Android 10 (Q),2300,Exynos 9611,179637,6,128,4,164,1080x2400,408,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,4000,0.8,48,2,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",13,32,1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,40801,233252,6800,19000,973053,2180853,23391801,4339152
+Samsung,SM-A707F/DSM Galaxy A70s 2019 Premium Edition Global Dual SIM TD-LTE,20890,19-Sep,187,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,8,128,4,170.3,1080x2400,393,1,Qualcomm Adreno 612,26541,2,1,1,1,1,25,4500,1.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",18,32,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39301,258691,8466.666667,29500,1174158.667,3256458.667,25946367.67,4226757.667
+Samsung,SM-A707F/DSM Galaxy A70s 2019 Standard Edition Global Dual SIM TD-LTE,22999,19-Sep,187,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,6,128,4,170.3,1080x2400,393,1,Qualcomm Adreno 612,26541,2,1,1,1,1,25,4500,1.8,64.4,1.8,"EIS
+  , EIS (video)
+  , Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Refocus
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch
+  , Face retouch (video)
+  , Intelligent scene detection",18,32,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39301,256691,8466.666667,29500,1172158.667,3254458.667,25746367.67,4224757.667
+Samsung,SM-A715F/DSM Galaxy A71 2019 Premium Edition Global Dual SIM TD-LTE 128GB,26910,20-Feb,179,Android,Google Android 10 (Q),2200,Snapdragon 730,251169,8,128,4,169.5,1080x2400,394,1,Qualcomm Adreno 618,52700,2,1,1,1,1,25,4500,0.8,63.7,1.8,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",14,32,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0,39401,337869,7466.666667,29500,1153436.667,3334736.667,33863267.67,4314935.667
+Samsung,SM-G770F/DSM Galaxy S10 Lite Dual SIM TD-LTE IN 128GB,36000,20-Feb,186,Android,Google Android 10 (Q),2842,Snapdragon 855,422995,8,128,4,169.5,1080x2400,394,1,Qualcomm Adreno 640,106829,2,2,0,1,1,10,4500,0.8,48,2,"OIS
+ , OIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,32,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,39401,570244,6800,14500,1304145,2066445,57085101,4531644
+Samsung,SM-G770F/DSM Galaxy S10 Lite Dual SIM TD-LTE IN 512GB,45999,20-Mar,186,Android,Google Android 10 (Q),2842,Snapdragon 855,422995,8,512,4,169.5,1080x2400,394,1,Qualcomm Adreno 640,106829,2,2,0,1,1,10,4500,0.8,48,2,"OIS
+ , OIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,32,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,39401,570244,6800,14500,1304145,2066445,57085101,4531644
+Samsung,SM-G780F/DS Galaxy S20 FE Global Dual SIM TD-LTE 128GB / SM-G780F/DSM,44990,20-Oct,190,Android,Google Android 10 (Q),2730,Exynos 990,519787,6,128,5,164,1080x2400,408,1,ARM Mali-G77 MP11,82052.5,2,2,0,1,1,25,4500,1.8,12.2,1.8,"EIS (video)
+ , OIS
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,40801,640139.5,8466.666667,29500,1557107.167,3639407.167,64092717.67,4758206.167
+Samsung,SM-G980F/DS Galaxy S20 Global Dual SIM TD-LTE 128GB / Galaxy S11,57499,20-Mar,163,Android,Google Android 10 (Q),2730,Exynos 990,519787,8,128,5,158.3,1440x3200,563,1,ARM Mali-G77 MP11,82052.5,2,2,0,1,1,25,4000,1.8,12.2,1.8,"EIS
+ , EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",19,10,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,56301,642139.5,8466.666667,29000,1574107.167,3606907.167,64307717.67,6309706.167
+Samsung,SM-G985F/DS Galaxy S20+ Global Dual SIM TD-LTE 128GB / Galaxy S11+,54999,20-Mar,186,Android,Google Android 10 (Q),2730,Exynos 990,519787,8,128,5,169.5,1440x3200,526,1,ARM Mali-G77 MP11,82052.5,2,2,0,1,1,25,4500,1.8,12.2,1.8,"EIS
+ , EIS (video)
+ , OIS
+ , OIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",19,10,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,52601,642139.5,8466.666667,29500,1570907.167,3653207.167,64304517.67,5940206.167
+Samsung,SM-G988B/DS Galaxy S20 Ultra 5G Global Dual SIM TD-LTE 128GB,69999,20-Mar,222,Android,Google Android 10 (Q),2730,Exynos 990,519787,12,128,5,174.4,1440x3200,511,1,ARM Mali-G77 MP11,82052.5,2,2,0,1,1,45,5000,0.8,108.6,1.8,"EIS
+ , EIS (video)
+ , OIS
+ , OIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",20,39.9,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,51101,646139.5,7466.666667,50000,1493907.167,5704707.167,64722517.67,5813706.167
+Samsung,SM-M015G/DS Galaxy M01 2020 Dual SIM TD-LTE APAC 32GB,7199,20-Jun,168,Android,Google Android 10 (Q),2020,Snapdragon 439,88015,3,32,3,144.8,720x1520,295,0,Qualcomm Adreno 505,10069,2,1,1,1,0,10,4000,1.12,13,2.2,"HDR photo
+ , Red-eye reduction
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",10,4.9,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,29500,124284,6574.545455,14000,825238.5455,1560358.545,12478474.55,3094858.545
+Samsung,SM-M017F/DS Galaxy M01s 2020 Global Dual SIM TD-LTE,9499,20-Jul,168,Android,Google Android 9.0 (Pie),2000,Helio P22,75418,3,32,4,157.9,720x1520,271,0,PowerVR GE8320,11243,1,1,1,1,0,10,4000,1.12,13,1.8,"HDR photo
+ , Red-eye reduction
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",10,8,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,27100,113661,7786.666667,14000,933427.6667,1548547.667,11414986.67,2845447.667
+Samsung,SM-M107F/DS Galaxy M10s 2019 Global Dual SIM TD-LTE 32GB,8990,19-Sep,169,Android,Google Android 9.0 (Pie),1600,Exynos 7884,94602,3,32,4,162,720x1560,269,1,ARM Mali-G71 MP2,11269,2,1,1,1,1,15,4000,1.12,13,1.9,"HDR photo
+  , Red-eye reduction
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",10,8,1,1,0,0,1,0,1,0,0,1,0,1,0,1,0,26901,128871,7435.789474,19000,918350.9474,2063207.789,12940436.79,2845406.789
+Samsung,SM-M115F/DS Galaxy M11 2020 Global Dual SIM TD-LTE 32GB,9441,20-Jun,197,Android,Google Android 10 (Q),1804,Snapdragon 450,87173,3,32,3,162.4,720x1560,269,0,Qualcomm Adreno 506,13259,2,1,1,1,1,10,5000,1.12,13,1.8,"HDR photo
+ , Red-eye reduction
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",10,8,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,26900,124472,7786.666667,15000,945038.6667,1659158.667,12496886.67,2837258.667
+Samsung,SM-M115F/DS Galaxy M11 2020 Global Dual SIM TD-LTE 64GB,11498,20-Jun,197,Android,Google Android 10 (Q),1804,Snapdragon 450,87173,4,64,3,162.4,720x1560,269,0,Qualcomm Adreno 506,13259,2,1,1,1,1,10,5000,1.12,13,1.8,"HDR photo
+ , Red-eye reduction
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch",10,8,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,26900,125472,7786.666667,15000,946038.6667,1660158.667,12596886.67,2838258.667
+Samsung,SM-M215F/DS Galaxy M21 Global Dual SIM TD-LTE 128GB,14999,20-Mar,188,Android,Google Android 10 (Q),2300,Exynos 9611,179637,6,128,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,19.7,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,233252,6800,21000,974653,2380453,23393401,4301152
+Samsung,SM-M215F/DS Galaxy M21 Global Dual SIM TD-LTE 64GB,12499,20-Mar,188,Android,Google Android 10 (Q),2300,Exynos 9611,179637,4,64,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,48,2,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,19.7,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,231252,6800,21000,972653,2378453,23193401,4299152
+Samsung,SM-M307F/DS Galaxy M30s Global Dual SIM TD-LTE 128GB,16999,19-Oct,188,Android,Google Android 9.0 (Pie),2300,Exynos 9611,179637,6,128,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,48,2,"Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",13,15.9,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,233252,6800,21000,974653,2380453,23393401,4301152
+Samsung,SM-M307F/DS Galaxy M30s Global Dual SIM TD-LTE 64GB,14999,19-Oct,188,Android,Google Android 9.0 (Pie),2300,Exynos 9611,179637,4,64,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,48,2,"Pixel unification
+  , HDR photo
+  , HDR video
+  , Red-eye reduction
+  , Slow motion video
+  , Burst mode
+  , Touch focus
+  , Macro mode
+  , Panorama Photo
+  , Face detection
+  , Face tagging
+  , Smile detection
+  , Face retouch",13,15.9,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,231252,6800,21000,972653,2378453,23193401,4299152
+Samsung,SM-M315F/DS Galaxy M31 Global Dual SIM TD-LTE 128GB,16499,20-Mar,191,Android,Google Android 10 (Q),2300,Exynos 9611,179637,6,128,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,64.4,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,32,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,233252,7466.666667,21000,1041319.667,2381119.667,23394067.67,4301818.667
+Samsung,SM-M315F/DS Galaxy M31 Global Dual SIM TD-LTE 64GB,15499,20-Mar,191,Android,Google Android 10 (Q),2300,Exynos 9611,179637,6,64,4,162.1,1080x2340,404,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,15,6000,0.8,64.4,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,32,1,1,1,0,0,0,1,0,0,0,0,1,1,1,0,40401,233252,7466.666667,21000,1041319.667,2381119.667,23394067.67,4301818.667
+Samsung,SM-M317F/DS Galaxy M31s Premium Edition Global Dual SIM TD-LTE 128GB,20499,20-Aug,203,Android,Google Android 10 (Q),2300,Exynos 9611,179637,8,128,4,164,1080x2400,408,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,25,6000,0.8,64.4,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,32,1,1,1,0,0,0,1,0,0,0,0,1,1,1,1,40801,235252,7466.666667,31000,1053719.667,3383519.667,23604467.67,4353818.667
+Samsung,SM-M317F/DS Galaxy M31s Standard Edition Global Dual SIM TD-LTE 128GB,18499,20-Aug,203,Android,Google Android 10 (Q),2300,Exynos 9611,179637,6,128,4,164,1080x2400,408,1,ARM Mali-G72 MP3,20615,2,1,1,1,1,25,6000,0.8,64.4,1.8,"Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",14,32,1,1,1,0,0,0,1,0,0,0,0,1,1,1,1,40801,233252,7466.666667,31000,1051719.667,3381519.667,23404467.67,4351818.667
+Samsung,SM-N770F/DSM Galaxy Note 10 Lite Premium Edition Dual SIM TD-LTE APAC,36899,20-Feb,199,Android,Google Android 10 (Q),2800,Exynos 9810,313987,8,128,4,170.3,1080x2400,393,1,ARM Mali-G72 MP18,46610,2,1,1,1,1,10,4500,1.8,12.2,1.7,"EIS (video)
+ , OIS
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,39301,400597,8858.823529,14500,1340280.353,1898756.824,40122359.82,4354055.824
+Samsung,SM-N770F/DSM Galaxy Note 10 Lite Standard Edition Dual SIM TD-LTE APAC,35099,20-Feb,199,Android,Google Android 10 (Q),2800,Exynos 9810,313987,6,128,4,170.3,1080x2400,393,1,ARM Mali-G72 MP18,46610,2,1,1,1,1,10,4500,1.8,12.2,1.7,"EIS (video)
+ , OIS
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,32,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,39301,398597,8858.823529,14500,1338280.353,1896756.824,39922359.82,4352055.824
+Samsung,SM-N980F/DS Galaxy Note 20 Global Dual SIM TD-LTE 256GB,75999,20-Aug,192,Android,Google Android 10 (Q),2730,Exynos 990,519787,8,256,5,169.5,1080x2400,394,1,ARM Mali-G77 MP11,82052.5,2,2,0,0,1,25,4300,1.8,12.2,1.8,"EIS
+ , EIS (video)
+ , OIS
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,10,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,39401,642139.5,8466.666667,29300,1557507.167,3620007.167,64291117.67,4620006.167
+Samsung,SM-N985F/DS Galaxy Note 20 Ultra Global Dual SIM TD-LTE 256GB,104999,20-Aug,208,Android,Google Android 10 (Q),2730,Exynos 990,519787,12,256,5,174.5,1440x3088,496,1,ARM Mali-G77 MP11,82052.5,2,2,0,1,1,25,4500,0.8,108.6,1.8,"EIS
+ , EIS (video)
+ , OIS
+ , OIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",20,10,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,49601,646139.5,7466.666667,29500,1471907.167,3653207.167,64700517.67,5643206.167
+Xiaomi,Mi A3 Dual SIM TD-LTE IN 128GB M1906F9SI,14999,19-Aug,173.8,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,6,128,4,154.63,720x1560,282,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,10,4030,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,28201,211678.5,7503.910615,14030,1004300.562,1650383.411,21217584.91,3053312.411
+Xiaomi,Mi A3 Dual SIM TD-LTE IN 64GB M1906F9SI,12999,19-Aug,173.8,Android,Google Android 9.0 (Pie),2000,Snapdragon 665,143390,4,64,4,154.63,720x1560,282,1,Qualcomm Adreno 616,38288.5,2,1,1,0,1,10,4030,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,32,1,1,1,0,1,0,1,0,1,0,0,0,1,1,0,28201,209678.5,7503.910615,14030,1002300.562,1648383.411,21017584.91,3051312.411
+Xiaomi,Pocophone Poco F2 Pro 5G Premium Edition Global Dual SIM TD-LTE 256GB M2004J11G,40790,20-May,219,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,8,256,5,169.4,1080x2400,395,1,Qualcomm Adreno 650,146854,2,1,1,0,1,33,4700,0.8,63.7,1.89,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,19.7,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,39501,769617,7149.206349,37700,1561738.635,4586267.206,77046050.21,4764566.206
+Xiaomi,Pocophone Poco F2 Pro 5G Standard Edition Global Dual SIM TD-LTE 128GB M2004J11G,39990,20-May,219,Android,Google Android 10 (Q),2840,Snapdragon 865,581363,6,128,4,169.4,1080x2400,395,1,Qualcomm Adreno 650,146854,2,1,1,0,1,33,4700,0.8,63.7,1.89,"EIS (video)
+ , OIS
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,19.7,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,39501,766617,7149.206349,37700,1558738.635,4583267.206,76746050.21,4761566.206
+Xiaomi,Pocophone Poco M2 Pro Premium Edition Dual SIM TD-LTE IN 128GB M2003J6CI,17900,20-Aug,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,1,0,1,1,1,0,39500,356344,7503.910615,38020,1184255.062,4205347.911,35719423.91,4351867.911
+Xiaomi,Pocophone Poco M2 Pro Premium Edition Dual SIM TD-LTE IN 64GB M2003J6CI,17990,20-Jul,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,64,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,1,0,1,1,1,0,39500,356344,7503.910615,38020,1184255.062,4205347.911,35719423.91,4351867.911
+Xiaomi,Pocophone Poco M2 Pro Standard Edition Dual SIM TD-LTE IN 64GB M2003J6CI,12999,20-Jul,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,4,64,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,1,0,1,1,1,0,39500,354344,7503.910615,38020,1182255.062,4203347.911,35519423.91,4349867.911
+Xiaomi,Pocophone Poco X2 Premium Edition Dual SIM TD-LTE IN 256GB M1912G7BI,26999,20-Feb,208,Android,Google Android 10 (Q),2200,Snapdragon 730G,274094,8,256,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,27,4500,0.8,64.2,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,19.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,39500,360794,7149.206349,31500,1146714.635,3557443.206,36157549.21,4349443.206
+Xiaomi,Pocophone Poco X2 Standard Edition Dual SIM TD-LTE IN 128GB M1912G7BI,17499,20-Feb,208,Android,Google Android 10 (Q),2200,Snapdragon 730G,274094,6,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,27,4500,0.8,64.2,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,19.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,39500,358794,7149.206349,31500,1144714.635,3555443.206,35957549.21,4347443.206
+Xiaomi,Pocophone Poco X2 Standard Edition Dual SIM TD-LTE IN 64GB,16499,20-Feb,208,Android,Google Android 10 (Q),2200,Snapdragon 730G,274094,6,64,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,27,4500,0.8,64.2,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,19.9,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,39500,358794,7149.206349,31500,1144714.635,3555443.206,35957549.21,4347443.206
+Xiaomi,Redmi 7 Standard Edition Dual SIM TD-LTE IN 32GB M1810F6LI,8490,19-Apr,180,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,2,32,3,159,1520x720,269,0,Qualcomm Adreno 506,13259,2,1,1,1,0,10,4000,1.25,12.2,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,8,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,26900,154748,6704.545455,14000,866102.5455,1588352.545,15522404.55,2865452.545
+Xiaomi,Redmi 7A Dual SIM TD-LTE IN 16GB M1903C3EI / MZB7995IN / MZB7798IN / MZB7799IN,6499,19-Jul,165,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,2,16,3,138.4,720x1440,295,0,Qualcomm Adreno 505,10069,2,1,1,1,0,10,4000,1.25,12.2,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection",5,4.9,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,29500,122584,6704.545455,14000,836538.5455,1558788.545,12308604.55,3093288.545
+Xiaomi,Redmi 7A Dual SIM TD-LTE IN 32GB M1903C3EI / MZB7989IN / MZB7800IN / MZB8008IN,7150,19-Jul,165,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,2,32,3,138.4,720x1440,295,0,Qualcomm Adreno 505,10069,2,1,1,1,0,10,4000,1.25,12.2,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection",5,4.9,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,29500,122584,6704.545455,14000,836538.5455,1558788.545,12308604.55,3093288.545
+Xiaomi,Redmi 8A Dual Premium Edition Dual SIM TD-LTE IN 32GB M2001C3K3I / Redmi 8A Pro,7999,20-Feb,188,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,3,32,3,157.91,720x1520,271,0,Qualcomm Adreno 505,10069,2,1,1,1,1,18,5000,1.12,13.1,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection",6,8,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,27100,123584,6574.545455,23000,831138.5455,2457258.545,12415074.55,2863158.545
+Xiaomi,Redmi 8A Dual Standard Edition Dual SIM TD-LTE IN 32GB M2001C3K3I / Redmi 8A Pro,6435,20-Feb,188,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,2,32,3,157.91,720x1520,271,0,Qualcomm Adreno 505,10069,2,1,1,1,1,18,5000,1.12,13.1,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection",6,8,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,27100,122584,6574.545455,23000,830138.5455,2456258.545,12315074.55,2862158.545
+Xiaomi,Redmi 8A Dual Standard Edition Dual SIM TD-LTE IN 64GB M2001C3K3I / Redmi 8A Pro,7754,20-Feb,188,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,3,64,3,157.91,720x1520,271,0,Qualcomm Adreno 505,10069,2,1,1,1,1,18,5000,1.12,13.1,2.2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection",6,8,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,27100,123584,6574.545455,23000,831138.5455,2457258.545,12415074.55,2863158.545
+Xiaomi,Redmi 8A Standard Edition Dual SIM TD-LTE IN 32GB M1908C3KI,6999,19-Oct,188,Android,Google Android 9.0 (Pie),1950,Snapdragon 439,88015,2,32,3,157.91,720x1520,271,0,Qualcomm Adreno 505,10069,2,1,1,1,1,18,5000,1.4,12.2,1.8,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection",6,8,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,27100,122584,8066.666667,23000,979350.6667,2457750.667,12316566.67,2863650.667
+Xiaomi,Redmi Go Dual SIM TD-LTE APAC LATAM M1903C3GH,4499,19-Mar,137,Android,Google Android 8.1 Oreo Go edition (Oreo),1400,Snapdragon 425,43758,1,8,3,127,720x1280,294,0,Qualcomm Adreno 308,5461.5,2,1,1,1,0,10,3000,1.12,8,2,"HDR photo
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Face retouch",8,4.9,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,29400,67219.5,7120,13000,821619.5,1403739.5,6771470,3027339.5
+Xiaomi,Redmi K20 Dual SIM TD-LTE IN 128GB MZB7757IN / MZB7758IN / MZB7759IN,21999,19-Jul,191,Android,Google Android 9.0 (Pie),2200,Snapdragon 730,251169,6,128,4,162.3,1080x2340,403,1,Qualcomm Adreno 618,52700,3,1,1,0,1,18,4000,0.8,48,1.75,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,19.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40301,335869,7657.142857,22000,1163884.286,2583827.143,33656858.14,4395626.143
+Xiaomi,Redmi K20 Dual SIM TD-LTE IN 64GB MZB7757IN / MZB7758IN / MZB7759IN,18999,19-Jul,191,Android,Google Android 9.0 (Pie),2200,Snapdragon 730,251169,6,128,4,162.3,1080x2340,403,1,Qualcomm Adreno 618,52700,3,1,1,0,1,18,4000,0.8,48,1.75,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,19.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40301,335869,7657.142857,22000,1163884.286,2583827.143,33656858.14,4395626.143
+Xiaomi,Redmi K20 Pro Dual SIM TD-LTE IN 128GB MZB7748IN / MZB7749IN / MZB7750IN,24750,19-Jul,191,Android,Google Android 9.0 (Pie),2842,Snapdragon 855,422995,6,128,4,162.3,1080x2340,403,1,Qualcomm Adreno 640,106829,3,1,1,0,1,27,4000,0.8,48,1.75,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,19.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40301,568244,7657.142857,31000,1405259.286,3716202.143,56903358.14,4637001.143
+Xiaomi,Redmi K20 Pro Dual SIM TD-LTE IN 256GB MZB7751IN / MZB7752IN / MZB7753IN,29999,19-Jul,191,Android,Google Android 9.0 (Pie),2842,Snapdragon 855,422995,8,256,4,162.3,1080x2340,403,1,Qualcomm Adreno 640,106829,3,1,1,0,1,27,4000,0.8,48,1.75,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",18,19.9,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,40301,570244,7657.142857,31000,1407259.286,3718202.143,57103358.14,4639001.143
+Xiaomi,Redmi Note 7 Dual SIM TD-LTE IN 32GB M1901F7I / MZB7411IN / MZB7263IN / MZB7264IN,9399,19-Feb,186,Android,Google Android 9.0 (Pie),2210,Snapdragon 660,153974,3,32,4,160,1080x2340,409,0,Qualcomm Adreno 512,29060,2,1,1,1,1,10,4000,1.25,12,2.2,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,212134,6704.545455,14000,937488.5455,1659738.545,21275004.55,4322838.545
+Xiaomi,Redmi Note 7 Dual SIM TD-LTE IN 64GB M1901F7I / MZB7412IN / MZB7265IN / MZB7266IN,10499,19-Feb,186,Android,Google Android 9.0 (Pie),2210,Snapdragon 660,153974,4,64,4,160,1080x2340,409,0,Qualcomm Adreno 512,29060,2,1,1,1,1,10,4000,1.25,12,2.2,"EIS (video)
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",16,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,213134,6704.545455,14000,938488.5455,1660738.545,21375004.55,4323838.545
+Xiaomi,Redmi Note 7 Pro Dual SIM TD-LTE IN 128GB M1901F7S,15990,19-Apr,186,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,6,128,4,160,1080x2340,409,0,Qualcomm Adreno 612,26541,3,1,1,1,1,10,4000,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,256691,7503.910615,14000,1061982.062,1705094.911,25731503.91,4368194.911
+Xiaomi,Redmi Note 7 Pro Dual SIM TD-LTE IN 64GB M1901F7S / MZB7462IN / MZB7464IN,12499,19-Mar,186,Android,Google Android 9.0 (Pie),2000,Snapdragon 675,200150,4,64,4,160,1080x2340,409,0,Qualcomm Adreno 612,26541,3,1,1,1,1,10,4000,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,254691,7503.910615,14000,1059982.062,1703094.911,25531503.91,4366194.911
+Xiaomi,Redmi Note 7S Dual SIM TD-LTE IN 32GB MZB7744IN / MZB7745IN / MZB7746IN,10200,19-May,186,Android,Google Android 9.0 (Pie),2210,Snapdragon 660,153974,3,32,4,160,1080x2340,409,0,Qualcomm Adreno 512,29060,2,1,1,1,1,10,4000,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,212134,7503.910615,14000,1017425.062,1660537.911,21275803.91,4323637.911
+Xiaomi,Redmi Note 7S Dual SIM TD-LTE IN 64GB MZB7741IN / MZB7742IN / MZB7743IN,11400,19-May,186,Android,Google Android 9.0 (Pie),2210,Snapdragon 660,153974,4,64,4,160,1080x2340,409,0,Qualcomm Adreno 512,29060,2,1,1,1,1,10,4000,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,13,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,40900,213134,7503.910615,14000,1018425.062,1661537.911,21375803.91,4324637.911
+Xiaomi,Redmi Note 8 Pro Standard Edition Dual SIM TD-LTE IN 128GB M1906G7I,17999,19-Nov,199.8,Android,Google Android 9.0 (Pie),2050,Helio G90T,278615,6,128,4,165.9,1080x2340,395,1,ARM Mali-G76 MP4,37800,2,1,1,0,1,18,4500,0.8,64.1,1.89,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,19.7,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,39501,346915,7149.206349,22500,1123836.635,2643565.206,34760650.21,4326664.206
+Xiaomi,Redmi Note 8 Pro Standard Edition Dual SIM TD-LTE IN 64GB M1906G7I,14999,19-Nov,199.8,Android,Google Android 9.0 (Pie),2050,Helio G90T,278615,6,64,4,165.9,1080x2340,395,1,ARM Mali-G76 MP4,37800,2,1,1,0,1,18,4500,0.8,64.1,1.89,"EIS
+ , EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Refocus
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",17,19.7,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,39501,346915,7149.206349,22500,1123836.635,2643565.206,34760650.21,4326664.206
+Xiaomi,Redmi Note 9 Pro Dual SIM TD-LTE IN 64GB M2003J6A1I,12373,20-Mar,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,4,64,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,18,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,354344,7503.910615,23020,1167255.062,2703347.911,35504423.91,4334867.911
+Xiaomi,Redmi Note 9 Pro Dual SIM TD-LTE IN NP 128GB M2003J6A1I 6GB,15192,20-Mar,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,18,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,356344,7503.910615,23020,1169255.062,2705347.911,35704423.91,4336867.911
+Xiaomi,Redmi Note 9 Pro Dual SIM TD-LTE IN NP 128GB M2003J6A1I 4GB,13391,20-Mar,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,4,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,18,5020,0.8,48,1.79,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,15.9,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,354344,7503.910615,23020,1167255.062,2703347.911,35504423.91,4334867.911
+Xiaomi,Redmi Note 9 Pro Max Premium Edition Dual SIM TD-LTE IN 128GB M2003J6B1I,19499,20-May,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,8,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,63.7,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,358344,7149.206349,38020,1150784.635,4206993.206,35919069.21,4353513.206
+Xiaomi,Redmi Note 9 Pro Max Standard Edition Dual SIM TD-LTE IN 128GB M2003J6B1I,17439,20-May,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,128,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,63.7,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,356344,7149.206349,38020,1148784.635,4204993.206,35719069.21,4351513.206
+Xiaomi,Redmi Note 9 Pro Max Standard Edition Dual SIM TD-LTE IN 64GB M2003J6B1I,15118,20-May,209,Android,Google Android 10 (Q),2300,Snapdragon 720G,270644,6,64,4,169.4,1080x2400,395,0,Qualcomm Adreno 618,52700,2,1,1,1,1,33,5020,0.8,63.7,1.89,"EIS (video)
+ , Pixel unification
+ , HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Face retouch (video)
+ , Intelligent scene detection",15,32,1,1,1,0,1,0,1,0,0,0,0,1,1,1,0,39500,356344,7149.206349,38020,1148784.635,4204993.206,35719069.21,4351513.206
+Xiaomi,Redmi Y3 Standard Edition Dual SIM TD-LTE IN 32GB M1810F6I,10842,19-Apr,180,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,2,32,3,159,1520x720,269,0,Qualcomm Adreno 506,13259,2,1,1,1,0,10,4000,1.25,12.2,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,32,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,26900,154748,6704.545455,14000,866102.5455,1588352.545,15522404.55,2865452.545
+Xiaomi,Redmi Y3 Standard Edition Dual SIM TD-LTE IN 64GB M1810F6I,10842,19-Apr,180,Android,Google Android 9.0 (Pie),1800,Snapdragon 632,118489,4,64,3,159,1520x720,269,0,Qualcomm Adreno 506,13259,2,1,1,1,0,10,4000,1.25,12.2,2.2,"HDR photo
+ , HDR video
+ , Red-eye reduction
+ , Slow motion video
+ , Burst mode
+ , Touch focus
+ , Macro mode
+ , Panorama Photo
+ , Face detection
+ , Face tagging
+ , Smile detection
+ , Face retouch
+ , Intelligent scene detection",13,32,1,0,1,0,1,0,1,0,0,0,0,1,1,1,0,26900,156748,6704.545455,14000,868102.5455,1590352.545,15722404.55,2867452.545
